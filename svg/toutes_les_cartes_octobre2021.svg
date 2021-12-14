@@ -25744,9 +25744,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.28"
-     inkscape:cx="15758.476"
-     inkscape:cy="-4054.8778"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="-2883.8374"
+     inkscape:cy="-1341.0965"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -28515,7 +28515,7 @@
          xml:space="preserve"
          id="text8353-6-8-7"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect8355-5-1-6);"
-         transform="translate(-0.44062441,6.1070561)"
+         transform="translate(-0.44062441,3.9904025)"
          x="14.139543"
          y="0"><tspan
            x="-1132.9839"
@@ -28524,7 +28524,11 @@
 </tspan></tspan><tspan
            x="-1138.4289"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect8355-5-1-6)">Infligez 4 Dégâts.</tspan></tspan></text>
+             style="shape-inside:url(#rect8355-5-1-6)">Infligez 4 Dégâts.
+</tspan></tspan><tspan
+           x="-1138.0732"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect8355-5-1-6)">Recyclez 1 carte.</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
