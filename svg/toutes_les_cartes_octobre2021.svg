@@ -3275,8 +3275,8 @@
     <rect
        x="-1142.5505"
        y="-1051.6254"
-       width="39.101532"
-       height="17.773424"
+       width="50.4276"
+       height="25.625155"
        id="rect2684-2" />
     <rect
        x="-1142.5505"
@@ -3311,8 +3311,8 @@
     <rect
        x="-1142.5505"
        y="-1051.6254"
-       width="39.101532"
-       height="17.773424"
+       width="50.4276"
+       height="27.477052"
        id="rect2684-2-4" />
     <rect
        x="-1142.5505"
@@ -4787,8 +4787,8 @@
     <rect
        x="-1142.5505"
        y="-1051.6254"
-       width="39.101532"
-       height="17.773424"
+       width="51.927593"
+       height="28.977045"
        id="rect2684-2-4-5" />
     <rect
        x="-1142.5505"
@@ -6971,8 +6971,8 @@
     <rect
        x="-1142.5505"
        y="-1051.6254"
-       width="43.080524"
-       height="19.082912"
+       width="43.968692"
+       height="23.175066"
        id="rect15895" />
     <rect
        x="-287.55527"
@@ -25892,6 +25892,18 @@
        width="326.28265"
        height="112.2532"
        id="rect17022-4" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="42.660366"
+       height="22.733864"
+       id="rect13998-9" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="42.660366"
+       height="22.733864"
+       id="rect17073" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -25901,8 +25913,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9050967"
-     inkscape:cx="-3109.3563"
-     inkscape:cy="-5522.8881"
+     inkscape:cx="15786.32"
+     inkscape:cy="-4544.2972"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31717,15 +31729,26 @@
          xml:space="preserve"
          id="text2676-9"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2684-2);"
-         transform="translate(62.847876,5.0488291)"
+         transform="translate(57.070241,-0.84696336)"
          x="14.139543"
          y="0"><tspan
-           x="-1139.9723"
+           x="-1134.2489"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect2684-2)">Détruisez jusqu'à 3 </tspan></tspan><tspan
-           x="-1137.3885"
+             style="shape-inside:url(#rect2684-2)">Si vous avez moins </tspan></tspan><tspan
+           x="-1142.2889"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect2684-2)">Enchantements.</tspan></tspan></text>
+             style="shape-inside:url(#rect2684-2)">d'Enchantements, Détruisez </tspan></tspan><tspan
+           x="-1140.2994"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect2684-2)">jusqu'à 3 </tspan><tspan
+             style="shape-inside:url(#rect2684-2)">Enchantements.
+</tspan></tspan><tspan
+           x="-1133.4643"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect2684-2)">Sinon, Détruisez 1 </tspan></tspan><tspan
+           x="-1130.8064"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect2684-2)">Enchantement.</tspan></tspan></text>
     </g>
     <g
        id="g2678-1-0"
@@ -31819,19 +31842,29 @@
          xml:space="preserve"
          id="text2676-9-9"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2684-2-4);"
-         transform="translate(62.847876,3.1969315)"
+         transform="translate(57.070241,-3.4925313)"
          x="14.139543"
          y="0"><tspan
-           x="-1139.9723"
+           x="-1134.2489"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect2684-2-4)">Détruisez jusqu'à 2 </tspan></tspan><tspan
-           x="-1137.3885"
+             style="shape-inside:url(#rect2684-2-4)">Si vous avez moins </tspan></tspan><tspan
+           x="-1142.2889"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect2684-2-4)">Enchantements.
-</tspan></tspan><tspan
-           x="-1137.8682"
+             style="shape-inside:url(#rect2684-2-4)">d'Enchantements, Détruisez </tspan></tspan><tspan
+           x="-1140.2994"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect2684-2-4)">Infligez 3 Dégâts</tspan></tspan></text>
+             style="shape-inside:url(#rect2684-2-4)">jusqu'à 2 Enchantements.
+</tspan></tspan><tspan
+           x="-1133.4643"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect2684-2-4)">Sinon, Détruisez 1 </tspan></tspan><tspan
+           x="-1130.8064"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect2684-2-4)">Enchantement.
+</tspan></tspan><tspan
+           x="-1132.7658"
+           y="-1026.4554"><tspan
+             style="shape-inside:url(#rect2684-2-4)">Infligez 3 Dégâts.</tspan></tspan></text>
     </g>
     <g
        id="g4490"
@@ -32657,19 +32690,29 @@
          xml:space="preserve"
          id="text2676-9-9-3"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2684-2-4-5);"
-         transform="translate(62.847876,3.1969315)"
+         transform="translate(56.320241,-3.0517977)"
          x="14.139543"
          y="0"><tspan
-           x="-1128.6612"
+           x="-1122.2481"
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect2684-2-4-5)">Rituel.
 </tspan></tspan><tspan
-           x="-1139.9723"
+           x="-1133.4989"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect2684-2-4-5)">Détruisez jusqu'à 2 </tspan></tspan><tspan
-           x="-1137.3885"
+             style="shape-inside:url(#rect2684-2-4-5)">Si vous avez moins </tspan></tspan><tspan
+           x="-1141.5389"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect2684-2-4-5)">Enchantements.</tspan></tspan></text>
+             style="shape-inside:url(#rect2684-2-4-5)">d'Enchantements, Détruisez </tspan></tspan><tspan
+           x="-1139.5494"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect2684-2-4-5)">jusqu'à 2 Enchantements.
+</tspan></tspan><tspan
+           x="-1132.7143"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect2684-2-4-5)">Sinon, Détruisez 1 </tspan></tspan><tspan
+           x="-1130.0564"
+           y="-1026.4554"><tspan
+             style="shape-inside:url(#rect2684-2-4-5)">Enchantement.</tspan></tspan></text>
     </g>
     <g
        id="g2678-1-5-8-2"
@@ -32880,7 +32923,7 @@
     </g>
     <g
        id="g2678-1-5-8-2-3-94"
-       transform="matrix(0.98740108,0,0,1.0001004,693.58892,251.68071)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1217.1451,-651.13715)">
       <rect
          y="-1107.74"
          x="-1091.0636"
@@ -33508,7 +33551,7 @@
     </g>
     <g
        id="g2678-1-5-8-2-3-94-1"
-       transform="matrix(0.98740108,0,0,1.0001004,631.09772,251.68074)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1279.6363,-651.13712)">
       <rect
          y="-1107.74"
          x="-1091.0636"
@@ -36255,7 +36298,7 @@
     </g>
     <g
        id="g11719"
-       transform="matrix(0.98740108,0,0,1.0001004,1564.0094,163.38319)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1217.1451,-651.13707)">
       <rect
          y="-1019.4515"
          x="-1091.0636"
@@ -36362,7 +36405,7 @@
     </g>
     <g
        id="g11771"
-       transform="matrix(0.98740108,0,0,1.0001004,1501.5182,163.38321)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1279.6363,-651.13705)">
       <rect
          y="-1019.4515"
          x="-1091.0636"
@@ -37647,22 +37690,22 @@
          xml:space="preserve"
          id="text12453"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect12461);"
-         transform="translate(62.847876,2.6678187)"
+         transform="translate(62.847876,2.1387052)"
          x="14.139543"
          y="0"><tspan
            x="-1137.503"
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect12461)">Inflige 6 Dégâts.
 </tspan></tspan><tspan
-           x="-1138.7648"
+           x="-1141.5226"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect12461)">Si vous défaussez </tspan></tspan><tspan
-           x="-1140.8852"
+             style="shape-inside:url(#rect12461)">Si vous défaussez ou </tspan></tspan><tspan
+           x="-1141.0144"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect12461)">cette carte, Inflige 9 </tspan></tspan><tspan
-           x="-1129.8153"
+             style="shape-inside:url(#rect12461)">recyclez cette carte, </tspan></tspan><tspan
+           x="-1137.503"
            y="-1035.2747"><tspan
-             style="shape-inside:url(#rect12461)">Dégâts.</tspan></tspan></text>
+             style="shape-inside:url(#rect12461)">Inflige 9 Dégâts.</tspan></tspan></text>
     </g>
     <g
        id="g12513"
@@ -37757,21 +37800,23 @@
          xml:space="preserve"
          id="text12511"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect12519);"
-         transform="translate(62.922014,90.31435)"
+         transform="translate(62.922014,89.785236)"
          x="14.79411"
          y="0"><tspan
            x="-1139.9283"
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect12519)">Gagnez 8 Armures.
 </tspan></tspan><tspan
-           x="-1138.7648"
+           x="-1141.5226"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect12519)">Si vous défaussez </tspan></tspan><tspan
-           x="-1140.4546"
+             style="shape-inside:url(#rect12519)">Si vous défaussez ou </tspan></tspan><tspan
+           x="-1141.0144"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect12519)">cette carte, Gagnez </tspan></tspan><tspan
-           x="-1133.7935"
+             style="shape-inside:url(#rect12519)">recyclez </tspan><tspan
+             style="shape-inside:url(#rect12519)">cette carte, </tspan></tspan><tspan
+           x="-1141.0506"
            y="-1035.2747"><tspan
+             style="shape-inside:url(#rect12519)">Gagnez </tspan><tspan
              style="shape-inside:url(#rect12519)">12 Armures.</tspan></tspan></text>
     </g>
     <g
@@ -40638,7 +40683,7 @@
     </g>
     <g
        id="g14401"
-       transform="matrix(0.98740108,0,0,1.0001004,2641.7206,163.38332)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1217.1401,-562.83962)">
       <rect
          y="-1019.4515"
          x="-1091.0636"
@@ -40743,109 +40788,112 @@
            x="-1136.6555"
            y="-1035.2747"><tspan>votre défausse.</tspan></tspan></text>
     </g>
-    <rect
-       y="-856.17047"
-       x="1501.912"
-       height="86.797279"
-       width="61.010094"
-       id="rect14409"
-       style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:1.4906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="-853.52435"
-       x="1504.5245"
-       height="81.505089"
-       width="55.785088"
-       id="rect14411"
-       style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.745298;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="g14421"
-       transform="matrix(0.98740108,0,0,1.0001004,1789.001,285.55083)">
+       id="g17174">
       <rect
-         y="-1138.9608"
-         x="-278.28418"
-         height="8.7370005"
-         width="46.674686"
-         id="rect14413"
-         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         id="text14419"
-         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14455);"
-         transform="translate(21.63592,1.7677208)"><tspan
-           x="-287.55469"
-           y="-1134.7818"><tspan>Dissection</tspan></tspan></text>
-    </g>
-    <g
-       id="g14435"
-       transform="matrix(0.98740108,0,0,1.0001004,1789.001,285.55083)">
+         y="-1582.3933"
+         x="-2356.949"
+         height="86.797279"
+         width="61.010094"
+         id="rect14409"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:1.4906;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1579.7472"
+         x="-2354.3364"
+         height="81.505089"
+         width="55.785088"
+         id="rect14411"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.745298;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
-         id="g14433"
-         transform="translate(-44.813317,-3.0208362)">
-        <circle
-           style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
-           id="circle14423"
-           cx="-238.96164"
-           cy="-1131.6086"
-           r="7.0861607" />
-        <flowRoot
-           transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
-           style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="flowRoot14431"
-           xml:space="preserve"><flowRegion
-             id="flowRegion14427"><rect
-               style="line-height:113%;"
-               y="4.0867119"
-               x="2.5484009"
-               height="51.801369"
-               width="181.58759"
-               id="rect14425" /></flowRegion><flowPara
-             style="font-size:45.7323px;line-height:113%"
-             id="flowPara14429">0</flowPara></flowRoot>
+         id="g14421"
+         transform="matrix(0.98740108,0,0,1.0001004,-2069.8597,-440.67211)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect14413"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text14419"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14455);"
+           transform="translate(21.63592,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Dissection</tspan></tspan></text>
       </g>
-    </g>
-    <rect
-       y="-811.71045"
-       x="1504.5245"
-       height="39.691284"
-       width="55.785088"
-       id="rect14437"
-       style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.745298;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="g14447"
-       transform="matrix(0.98740108,0,0,1.0001004,1789.001,285.55083)">
-      <ellipse
-         style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-         id="ellipse14439"
-         cx="-259.85788"
-         cy="-1097.1511"
-         rx="13.548702"
-         ry="3.3871756" />
+      <g
+         id="g14435"
+         transform="matrix(0.98740108,0,0,1.0001004,-2069.8597,-440.67211)">
+        <g
+           id="g14433"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle14423"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot14431"
+             xml:space="preserve"><flowRegion
+               id="flowRegion14427"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect14425" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara14429">0</flowPara></flowRoot>
+        </g>
+      </g>
+      <rect
+         y="-1537.9332"
+         x="-2354.3364"
+         height="39.691284"
+         width="55.785088"
+         id="rect14437"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.745298;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g14447"
+         transform="matrix(0.98740108,0,0,1.0001004,-2069.8597,-440.67211)">
+        <ellipse
+           style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse14439"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text14445"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14457);"
+           transform="translate(2.7245361,2.5710205)"><tspan
+             x="-272.65234"
+             y="-1098.7827"><tspan
+               style="font-size:3.175px">Compétence</tspan></tspan></text>
+      </g>
       <text
          xml:space="preserve"
-         id="text14445"
-         style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14457);"
-         transform="translate(2.7245361,2.5710205)"><tspan
-           x="-272.65234"
-           y="-1098.7827"><tspan
-             style="font-size:3.175px">Compétence</tspan></tspan></text>
+         id="text14451"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect14459);"
+         transform="matrix(0.98740108,0,0,1.0001004,-1217.5752,-472.41455)"
+         x="14.79411"
+         y="0"><tspan
+           x="-1128.6612"
+           y="-1048.5037"><tspan>Rituel.
+</tspan></tspan><tspan
+           x="-1137.9689"
+           y="-1044.0941"><tspan>Piochez 2 cartes.
+</tspan></tspan><tspan
+           x="-1139.0498"
+           y="-1039.6844"><tspan>Purifiez 1 carte de </tspan></tspan><tspan
+           x="-1136.6555"
+           y="-1035.2747"><tspan>votre défausse.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text14451"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect14459);"
-       transform="matrix(0.98740108,0,0,1.0001004,2641.2855,253.80839)"
-       x="14.79411"
-       y="0"><tspan
-         x="-1128.6612"
-         y="-1048.5037"><tspan>Rituel.
-</tspan></tspan><tspan
-         x="-1137.9689"
-         y="-1044.0941"><tspan>Piochez 2 cartes.
-</tspan></tspan><tspan
-         x="-1139.0498"
-         y="-1039.6844"><tspan>Purifiez 1 carte de </tspan></tspan><tspan
-         x="-1136.6555"
-         y="-1035.2747"><tspan>votre défausse.</tspan></tspan></text>
     <g
        id="g14505"
        transform="matrix(0.98740108,0,0,1.0001004,2641.7206,516.57317)">
@@ -41048,12 +41096,12 @@
            x="-1133.6662"
            y="-1048.5037"><tspan>Piochez 3 cartes.
 </tspan></tspan><tspan
-           x="-1141.9482"
-           y="-1044.0941"><tspan>Si vous vous défaussez de </tspan></tspan><tspan
-           x="-1137.8313"
-           y="-1039.6844"><tspan>cette carte, Piochez 5 </tspan></tspan><tspan
-           x="-1124.7296"
-           y="-1035.2747"><tspan>cartes.</tspan></tspan></text>
+           x="-1137.2198"
+           y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
+           x="-1136.7117"
+           y="-1039.6844"><tspan>recyclez </tspan><tspan>cette carte, </tspan></tspan><tspan
+           x="-1133.6662"
+           y="-1035.2747"><tspan>Piochez 5 </tspan><tspan>cartes.</tspan></tspan></text>
     </g>
     <g
        id="g14609"
@@ -41154,12 +41202,12 @@
            x="-1133.6662"
            y="-1048.5037"><tspan>Piochez 2 cartes.
 </tspan></tspan><tspan
-           x="-1141.9482"
-           y="-1044.0941"><tspan>Si vous vous défaussez de </tspan></tspan><tspan
-           x="-1137.8313"
-           y="-1039.6844"><tspan>cette carte, Piochez 3 </tspan></tspan><tspan
-           x="-1124.7296"
-           y="-1035.2747"><tspan>cartes.</tspan></tspan></text>
+           x="-1137.2198"
+           y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
+           x="-1136.7117"
+           y="-1039.6844"><tspan>recyclez cette carte, </tspan></tspan><tspan
+           x="-1133.6662"
+           y="-1035.2747"><tspan>Piochez 2 cartes.</tspan></tspan></text>
     </g>
     <g
        id="g14661"
@@ -43033,19 +43081,20 @@
          xml:space="preserve"
          id="text15887"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect15895);"
-         transform="translate(60.72519,89.785236)"
+         transform="translate(60.280853,86.003492)"
          x="14.79411"
          y="0"><tspan
-           x="-1126.6719"
-           y="-1048.5037"><tspan>Rituel.
+           x="-1135.7877"
+           y="-1048.5037"><tspan>Gagnez 2 Manas.
 </tspan></tspan><tspan
-           x="-1136.232"
-           y="-1044.0941"><tspan>Gagnez 2 Manas.
-</tspan></tspan><tspan
-           x="-1141.8596"
-           y="-1039.6844"><tspan>Si vous défaussez cette </tspan></tspan><tspan
-           x="-1141.9061"
-           y="-1035.2747"><tspan>carte. Gagnez 2 Manas.</tspan></tspan></text>
+           x="-1139.089"
+           y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
+           x="-1138.5808"
+           y="-1039.6844"><tspan>recyclez cette carte, </tspan></tspan><tspan
+           x="-1136.6455"
+           y="-1035.2747"><tspan>Gagnez 1 Mana et </tspan></tspan><tspan
+           x="-1136.096"
+           y="-1030.8651"><tspan>Piochez 2 cartes..</tspan></tspan></text>
     </g>
     <g
        id="g15941"
@@ -44184,15 +44233,17 @@
          xml:space="preserve"
          id="text16932"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect16940);"
-         transform="translate(60.72519,93.489034)"
+         transform="translate(60.72519,90.843464)"
          x="14.79411"
          y="0"><tspan
            x="-1139.355"
            y="-1048.5037"><tspan>Gagnez 1 Mana pour </tspan></tspan><tspan
-           x="-1139.2465"
-           y="-1044.0941"><tspan>chaque Compétence </tspan></tspan><tspan
-           x="-1134.1693"
-           y="-1039.6844"><tspan>dans le Vortex.</tspan></tspan></text>
+           x="-1132.7249"
+           y="-1044.0941"><tspan>chaque autre </tspan></tspan><tspan
+           x="-1139.1285"
+           y="-1039.6844"><tspan>Compétence </tspan><tspan>dans le </tspan></tspan><tspan
+           x="-1127.2352"
+           y="-1035.2747"><tspan>Vortex.</tspan></tspan></text>
     </g>
     <g
        id="g16986"
@@ -45663,7 +45714,7 @@
     </g>
     <g
        id="g18028-4-2-9"
-       transform="matrix(0.98740108,0,0,1.0001004,4405.4281,-189.80671)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1279.6363,-562.84426)">
       <rect
          y="-931.1629"
          x="-1091.0636"
@@ -46066,7 +46117,7 @@
          y="0"><tspan
            x="-1131.8231"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect8355-4-23-4-5)">Vous avez 7 </tspan></tspan><tspan
+             style="shape-inside:url(#rect8355-4-23-4-5)">Vous avez 6 </tspan></tspan><tspan
            x="-1141.5649"
            y="-1044.0941"><tspan
              style="shape-inside:url(#rect8355-4-23-4-5)">Acharnements de plus.</tspan></tspan></text>
@@ -46167,7 +46218,7 @@
          y="0"><tspan
            x="-1131.8231"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect8355-4-23-4-5)">Vous avez 9 </tspan></tspan><tspan
+             style="shape-inside:url(#rect8355-4-23-4-5)">Vous avez 8 </tspan></tspan><tspan
            x="-1142.4107"
            y="-1044.0941"><tspan
              style="shape-inside:url(#rect8355-4-23-4-5)">Déterminations de plus.</tspan></tspan></text>
@@ -46374,15 +46425,16 @@
            x="-1137.3766"
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect19264)">Les Attaques vous </tspan></tspan><tspan
-           x="-1137.0372"
+           x="-1135.915"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect19264)">faisant plus de 10 </tspan></tspan><tspan
-           x="-1141.2032"
+             style="shape-inside:url(#rect19264)">faisant plus de 8 </tspan></tspan><tspan
+           x="-1141.7226"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect19264)">Dégâts font 10 Dégâts </tspan></tspan><tspan
-           x="-1130.3374"
+             style="shape-inside:url(#rect19264)">Dégâts font 8 Dégâts </tspan><tspan
+             style="shape-inside:url(#rect19264)">à </tspan></tspan><tspan
+           x="-1128.6958"
            y="-1035.2747"><tspan
-             style="shape-inside:url(#rect19264)">à la place.</tspan></tspan></text>
+             style="shape-inside:url(#rect19264)">la place.</tspan></tspan></text>
     </g>
     <g
        id="g19349"
@@ -49981,11 +50033,12 @@
            x="-1134.0314"
            y="-1044.0941"><tspan
              style="shape-inside:url(#rect22941)">un sort faisant </tspan></tspan><tspan
-           x="-1139.4316"
+           x="-1140.8656"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect22941)">défausser, Gagnez 1 </tspan></tspan><tspan
-           x="-1126.6201"
+             style="shape-inside:url(#rect22941)">défausser ou recycler, </tspan></tspan><tspan
+           x="-1135.5601"
            y="-1035.2747"><tspan
+             style="shape-inside:url(#rect22941)">Gagnez 1 </tspan><tspan
              style="shape-inside:url(#rect22941)">Mana.</tspan></tspan></text>
     </g>
     <g
@@ -50089,11 +50142,12 @@
            x="-1134.0314"
            y="-1044.0941"><tspan
              style="shape-inside:url(#rect22947)">un sort faisant </tspan></tspan><tspan
-           x="-1139.1051"
+           x="-1140.8656"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect22947)">défausser, Infligez 6 </tspan></tspan><tspan
-           x="-1128.0731"
+             style="shape-inside:url(#rect22947)">défausser ou recycler, </tspan></tspan><tspan
+           x="-1136.6867"
            y="-1035.2747"><tspan
+             style="shape-inside:url(#rect22947)">Infligez 6 </tspan><tspan
              style="shape-inside:url(#rect22947)">Dégâts.</tspan></tspan></text>
     </g>
     <g
@@ -50193,17 +50247,20 @@
            x="-1139.9769"
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect22953)">Le premier sort faisant </tspan></tspan><tspan
-           x="-1137.2088"
+           x="-1138.9787"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect22953)">défausser que vous </tspan></tspan><tspan
-           x="-1140.1147"
+             style="shape-inside:url(#rect22953)">défausser ou recycler </tspan></tspan><tspan
+           x="-1137.4922"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect22953)">résolvez à chaque tour </tspan></tspan><tspan
-           x="-1139.9322"
+             style="shape-inside:url(#rect22953)">que vous </tspan><tspan
+             style="shape-inside:url(#rect22953)">résolvez à </tspan></tspan><tspan
+           x="-1140.9855"
            y="-1035.2747"><tspan
-             style="shape-inside:url(#rect22953)">se résout 2 fois au lieu </tspan></tspan><tspan
-           x="-1125.418"
+             style="shape-inside:url(#rect22953)">chaque tour </tspan><tspan
+             style="shape-inside:url(#rect22953)">se résout 2 </tspan></tspan><tspan
+           x="-1135.5913"
            y="-1030.8651"><tspan
+             style="shape-inside:url(#rect22953)">fois au lieu </tspan><tspan
              style="shape-inside:url(#rect22953)">d'une.</tspan></tspan></text>
     </g>
     <g
@@ -51279,16 +51336,18 @@
          xml:space="preserve"
          id="text25153"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect25161);"
-         transform="translate(62.922014,92.95992)"
+         transform="translate(62.922014,90.31435)"
          x="14.79411"
          y="0"><tspan
            x="-1136.59"
            y="-1048.5037"><tspan>Contrez un sort </tspan></tspan><tspan
-           x="-1138.6339"
-           y="-1044.0941"><tspan>faisant défausser.
+           x="-1140.9929"
+           y="-1044.0941"><tspan>faisant défausser ou </tspan></tspan><tspan
+           x="-1130.4543"
+           y="-1039.6844"><tspan>recycler.
 </tspan></tspan><tspan
            x="-1137.05"
-           y="-1039.6844"><tspan>Piochez 1 carte.</tspan></tspan></text>
+           y="-1035.2747"><tspan>Piochez 1 carte.</tspan></tspan></text>
     </g>
     <g
        id="g25207"
@@ -54283,7 +54342,7 @@
 </tspan></tspan><tspan
            x="-1137.9689"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect13948)">Piochez 5 cartes.</tspan></tspan></text>
+             style="shape-inside:url(#rect13948)">Piochez 6 cartes.</tspan></tspan></text>
     </g>
     <g
        id="g13992"
@@ -54378,24 +54437,21 @@
          xml:space="preserve"
          id="text13990"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect13998);"
-         transform="translate(124.16688,87.434652)"
+         transform="translate(124.16688,90.080222)"
          x="14.79411"
          y="0"><tspan
-           x="-1137.3188"
+           x="-1140.1567"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect13998)">Vous pouvez avoir </tspan></tspan><tspan
-           x="-1139.1524"
+             style="shape-inside:url(#rect13998)">Votre limite de cartes </tspan></tspan><tspan
+           x="-1139.0835"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect13998)">jusqu'à 12 cartes en </tspan></tspan><tspan
-           x="-1126.1885"
-           y="-1039.6844"><tspan
-             style="shape-inside:url(#rect13998)">main.
+             style="shape-inside:url(#rect13998)">en main passe à 12.
 </tspan></tspan><tspan
            x="-1139.7846"
-           y="-1035.2747"><tspan
+           y="-1039.6844"><tspan
              style="shape-inside:url(#rect13998)">Piochez jusqu'à avoir </tspan></tspan><tspan
            x="-1137.7899"
-           y="-1030.8651"><tspan
+           y="-1035.2747"><tspan
              style="shape-inside:url(#rect13998)">12 cartes en main.</tspan></tspan></text>
     </g>
     <g
@@ -55032,10 +55088,10 @@
          y="0"><tspan
            x="-1133.1951"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect14304)">Vous avez 7 </tspan></tspan><tspan
+             style="shape-inside:url(#rect14304)">Vous avez 6 </tspan></tspan><tspan
            x="-1139.4239"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect14304)">Acharnements et 9 </tspan></tspan><tspan
+             style="shape-inside:url(#rect14304)">Acharnements et 7 </tspan></tspan><tspan
            x="-1139.0148"
            y="-1039.6844"><tspan
              style="shape-inside:url(#rect14304)">Déterminations de </tspan></tspan><tspan
@@ -55441,7 +55497,7 @@
                  width="181.58759"
                  id="rect14470" /></flowRegion><flowPara
                style="font-size:45.7323px;line-height:113%"
-               id="flowPara14474">0</flowPara></flowRoot>
+               id="flowPara14474">1</flowPara></flowRoot>
         </g>
       </g>
       <path
@@ -56389,7 +56445,7 @@
     </g>
     <g
        id="g16410-8"
-       transform="matrix(0.98740108,0,0,1.0001004,3377.0303,75.085592)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1279.6363,-827.73199)">
       <rect
          y="-1019.4515"
          x="-1091.0636"
@@ -56496,7 +56552,7 @@
     </g>
     <g
        id="g16462-9"
-       transform="matrix(0.98740108,0,0,1.0001004,3439.5215,75.085658)">
+       transform="matrix(0.98740108,0,0,1.0001004,-1217.1451,-827.73193)">
       <rect
          y="-1019.4515"
          x="-1091.0636"
