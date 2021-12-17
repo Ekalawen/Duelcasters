@@ -21,6 +21,12 @@
   <defs
      id="defs2">
     <rect
+       x="-615.05399"
+       y="-657.14894"
+       width="73.08151"
+       height="53.203339"
+       id="rect16955" />
+    <rect
        x="204.49419"
        y="548.3645"
        width="18.109137"
@@ -25736,6 +25742,156 @@
        width="39.101532"
        height="17.773424"
        id="rect21559" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect16689" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect16691" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect16693" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect16742" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect16744" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="41.173922"
+       height="26.835475"
+       id="rect16746" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect16796" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect16798" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect16800" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect16847" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect16849" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="48.312624"
+       height="24.594671"
+       id="rect16851" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect21354-1" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect16862" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect21354-7" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect16862-4" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect21354-70" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect16862-8" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect21354-72" />
+    <rect
+       x="-711.4646"
+       y="-1291.6958"
+       width="13.229167"
+       height="17.197918"
+       id="rect16862-2" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17007" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17009" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="47.915155"
+       height="27.049983"
+       id="rect17011" />
+    <rect
+       x="-300.83859"
+       y="-2080.426"
+       width="326.28265"
+       height="112.2532"
+       id="rect14788-5" />
+    <rect
+       x="-300.83859"
+       y="-2080.426"
+       width="326.28265"
+       height="112.2532"
+       id="rect17022-4" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -25744,9 +25900,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="-2883.8374"
-     inkscape:cy="-1341.0965"
+     inkscape:zoom="0.9050967"
+     inkscape:cx="-3109.3563"
+     inkscape:cy="-5522.8881"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -26752,7 +26908,7 @@
     </g>
     <g
        id="g8666-3"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-631.39834)">
+       transform="matrix(0.98740212,0,0,1.0000062,266.3022,-631.39834)">
       <rect
          y="-1107.74"
          x="-1154.3522"
@@ -26849,25 +27005,9 @@
            y="-1048.5037"><tspan
              style="text-align:center;text-anchor:middle">Infligez 6 Dégâts.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text8993"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8995);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.4993,3564.9333)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 6</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text9077"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.4993,3654.2643)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 6</tspan></tspan></text>
     <g
        id="g8830-4"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-631.39829)">
+       transform="matrix(0.98740212,0,0,1.0000062,328.79346,-719.6874)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -26972,7 +27112,7 @@
     </g>
     <g
        id="g8809-6"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-631.3983)">
+       transform="matrix(0.98740212,0,0,1.0000062,391.28472,-807.9765)">
       <rect
          y="-931.1629"
          x="-1154.3522"
@@ -27076,7 +27216,7 @@
     </g>
     <g
        id="g9422"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-543.10918)">
+       transform="matrix(0.98740212,0,0,1.0000062,-1419.3828,-916.11721)">
       <rect
          y="-931.1629"
          x="-1154.3522"
@@ -27180,7 +27320,7 @@
     </g>
     <g
        id="g9472"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-456.32007)">
+       transform="matrix(0.98740212,0,0,1.0000062,391.28472,-719.68739)">
       <rect
          y="-931.1629"
          x="-1154.3522"
@@ -27285,7 +27425,7 @@
     </g>
     <g
        id="g9516"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-368.03095)">
+       transform="matrix(0.98740212,0,0,1.0000062,-1419.3828,-827.8281)">
       <rect
          y="-931.1629"
          x="-1154.3522"
@@ -27389,7 +27529,7 @@
     </g>
     <g
        id="g9516-9"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-279.74183)">
+       transform="matrix(0.98740212,0,0,1.0000062,391.28472,-631.39828)">
       <rect
          y="-931.1629"
          x="-1154.3522"
@@ -27495,49 +27635,9 @@
            y="-1035.2747"><tspan
              style="shape-inside:url(#rect9528-1)">début de votre tour.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5338,3743.6956)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text9077-2-3"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-7);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5338,3833.0267)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 0</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text9077-2-0"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-9);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5338,3922.3578)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text9077-2-4"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-79);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5338,4011.689)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 0</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4101.0201)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8666-6"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-14.87449)">
+       transform="matrix(0.98740212,0,0,1.0000062,266.3022,-366.53089)">
       <rect
          y="-1107.74"
          x="-1154.3522"
@@ -27637,17 +27737,9 @@
            x="-1138.4289"
            y="-1039.6844"><tspan>Infligez 3 Dégâts.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4190.3513)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 3</tspan></tspan></text>
     <g
        id="g8830-6"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,-14.87444)">
+       transform="matrix(0.98740212,0,0,1.0000062,328.79346,-454.81997)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -27752,17 +27844,9 @@
            y="-1039.6844"><tspan
              style="shape-inside:url(#rect8355-4-0)">Piochez 2 cartes.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4279.6825)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8830-6-2"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,73.41468)">
+       transform="matrix(0.98740212,0,0,1.0000062,328.79346,-278.24171)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -27860,17 +27944,9 @@
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect8355-4-0-2)">Piochez 3 cartes.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4369.0136)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8830-6-2-6"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,161.7038)">
+       transform="matrix(0.98740212,0,0,1.0000062,328.79346,-366.53082)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -27967,17 +28043,9 @@
            x="-1138.2213"
            y="-1048.5037"><tspan>Gagnez 2 Manas.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5-2"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7-8);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4458.3448)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8830-6-2-6-3"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,249.99292)">
+       transform="matrix(0.98740212,0,0,1.0000062,391.28472,-278.24171)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -28081,17 +28149,9 @@
            x="-1139.9283"
            y="-1035.2747"><tspan>Gagnez 2 Armures.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5-2-0"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7-8-2);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4547.6759)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8830-6-2-6-3-1"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,338.28204)">
+       transform="matrix(0.98740212,0,0,1.0000062,-1419.3828,-651.24986)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -28196,17 +28256,9 @@
            y="-1039.6844"><tspan
              style="shape-inside:url(#rect8355-4-0-2-2-1-3)">Gagnez 6 Armures.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5-2-0-3"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7-8-2-7);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4637.0071)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 0</tspan></tspan></text>
     <g
        id="g8830-6-2-6-3-1-1"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,426.57116)">
+       transform="matrix(0.98740212,0,0,1.0000062,391.28472,-366.53093)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -28304,17 +28356,9 @@
            y="-1048.5037"><tspan
              style="shape-inside:url(#rect8355-4-0-2-2-1-3-4)">Recyclez 3 cartes.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5-2-0-3-4"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7-8-2-7-1);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4726.3383)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8666-3-7"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,603.14928)">
+       transform="matrix(0.98740212,0,0,1.0000062,266.3022,-543.10919)">
       <rect
          y="-1107.74"
          x="-1154.3522"
@@ -28415,17 +28459,9 @@
            y="-1044.0941"><tspan
              style="text-align:center;text-anchor:middle">Infligez 8 Dégâts.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5-2-0-3-4-2"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7-8-2-7-1-3);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4815.6694)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g8666-3-7-5"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,691.43848)">
+       transform="matrix(0.98740212,0,0,1.0000062,266.3022,-454.82004)">
       <rect
          y="-1107.74"
          x="-1154.3522"
@@ -28530,14 +28566,6 @@
            y="-1039.6844"><tspan
              style="shape-inside:url(#rect8355-5-1-6)">Recyclez 1 carte.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text9077-2-1-0-6-5-2-0-3-4-2-0"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9085-3-3-1-9-7-8-2-7-1-3-2);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4905.0006)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g2120"
        transform="translate(634.47084,-653.52083)">
@@ -57181,7 +57209,7 @@
        d="m 3455.6014,-1573.1551 -34.4831,-30.4026 -34.3053,30.6032 30.4027,-34.4831 -30.6032,-34.3053 34.4831,30.4027 34.3052,-30.6032 -30.4026,34.4831 z" />
     <g
        id="g8830-6-2-6-6"
-       transform="matrix(0.98740212,0,0,1.0000062,333.98882,691.43853)">
+       transform="matrix(0.98740212,0,0,1.0000062,328.79346,-631.39827)">
       <rect
          y="-1019.4515"
          x="-1154.3522"
@@ -57278,14 +57306,6 @@
            x="-1139.9283"
            y="-1048.5037"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text21352"
-       style="font-size:3.45419px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21354);"
-       transform="matrix(4.0852205,0,0,4.0852205,2220.5889,4984.3761)"><tspan
-         x="-711.46484"
-         y="-1288.6392"><tspan
-           style="font-size:3.45419px">* 2</tspan></tspan></text>
     <g
        id="g21251"
        transform="matrix(0.98740108,0,0,1.0001004,3954.3895,-631.29386)">
@@ -57852,5 +57872,465 @@
        inkscape:transform-center-y="1.9057739e-05"
        d="m 3021.0606,-1670.2939 c -8.0007,0 -2.9711,-3.4612 -27.1927,-31.7234 l 27.1595,20.3297 50.2237,-44.8038 c -43.7126,50.2969 -42.1898,56.1975 -50.1905,56.1975 z"
        sodipodi:nodetypes="zcccz" />
+    <g
+       id="g16687"
+       transform="matrix(0.98740212,0,0,1.0000062,266.3022,-278.24174)">
+      <rect
+         y="-1107.74"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect16633"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1105.0941"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect16635"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16645"
+         transform="translate(-863.59999,33.866666)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect16637"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text16643"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16689);"
+           transform="translate(21.620417,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Oscillation</tspan></tspan></text>
+      </g>
+      <g
+         id="g16659"
+         transform="translate(-863.59999,33.866666)">
+        <g
+           id="g16657"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle16647"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot16655"
+             xml:space="preserve"><flowRegion
+               id="flowRegion16651"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect16649" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara16653">0</flowPara></flowRoot>
+        </g>
+      </g>
+      <path
+         id="path16661"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         id="g16671"
+         transform="translate(-863.59999,33.866666)">
+        <ellipse
+           style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse16663"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text16669"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16691);"
+           transform="translate(5.9120248,2.2383951)"><tspan
+             x="-272.65234"
+             y="-1098.4705"><tspan
+               style="font-size:3.52778px">Attaque</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text16685"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect16693);"
+         transform="translate(-0.44062441,1.3445855)"
+         x="14.139543"
+         y="0"><tspan
+           x="-1136.59"
+           y="-1048.5037"><tspan
+             style="shape-inside:url(#rect16693)">Contrez un sort </tspan></tspan><tspan
+           x="-1139.552"
+           y="-1044.0941"><tspan
+             style="shape-inside:url(#rect16693)">coûtant 0 Mana ou </tspan></tspan><tspan
+           x="-1139.0498"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect16693)">gagnant du Mana.
+</tspan></tspan><tspan
+           x="-1138.4289"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect16693)">Infligez 2 Dégâts.</tspan></tspan></text>
+    </g>
+    <g
+       id="g16740"
+       transform="matrix(0.98740212,0,0,1.0000062,266.3022,-189.95259)">
+      <rect
+         y="-1107.74"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect16696"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1105.0941"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect16699"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16710"
+         transform="translate(-863.59999,33.866666)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect16702"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text16708"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16742);"
+           transform="translate(18.497097,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Répercussion</tspan></tspan></text>
+      </g>
+      <g
+         id="g16724"
+         transform="translate(-863.59999,33.866666)">
+        <g
+           id="g16722"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle16712"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot16720"
+             xml:space="preserve"><flowRegion
+               id="flowRegion16716"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect16714" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara16718">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <path
+         id="path16726"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         id="g16736"
+         transform="translate(-863.59999,33.866666)">
+        <ellipse
+           style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse16728"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text16734"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16744);"
+           transform="translate(5.9120248,2.2383951)"><tspan
+             x="-272.65234"
+             y="-1098.4705"><tspan
+               style="font-size:3.52778px">Attaque</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text16738"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect16746);"
+         transform="translate(-1.6102547,-0.24290467)"
+         x="14.139543"
+         y="0"><tspan
+           x="-1137.3927"
+           y="-1048.5037"><tspan
+             style="shape-inside:url(#rect16746)">Infligez 4 Dégâts.
+</tspan></tspan><tspan
+           x="-1137.9655"
+           y="-1044.0941"><tspan
+             style="shape-inside:url(#rect16746)">Si un sort adverse </tspan></tspan><tspan
+           x="-1136.193"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect16746)">allait piocher ou </tspan></tspan><tspan
+           x="-1137.8113"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect16746)">découvrir, Infligez </tspan></tspan><tspan
+           x="-1137.0465"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect16746)">encore 4 Dégâts.</tspan></tspan></text>
+    </g>
+    <g
+       id="g16794"
+       transform="matrix(0.98740212,0,0,1.0000062,328.79346,-543.10912)">
+      <rect
+         y="-1019.4515"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect16748"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1016.8056"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect16750"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16760"
+         transform="translate(-863.6,122.15523)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect16752"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text16758"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16796);"
+           transform="translate(21.871564,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Protection</tspan></tspan></text>
+      </g>
+      <g
+         id="g16774"
+         transform="translate(-863.6,122.15523)">
+        <g
+           id="g16772"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle16762"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot16770"
+             xml:space="preserve"><flowRegion
+               id="flowRegion16766"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect16764" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara16768">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <rect
+         y="-974.99591"
+         x="-1151.7063"
+         height="39.687298"
+         width="56.496887"
+         id="rect16776"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16786"
+         transform="translate(-863.6,122.15523)">
+        <ellipse
+           style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse16778"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text16784"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16798);"
+           transform="translate(2.7245361,2.5710205)"><tspan
+             x="-272.65234"
+             y="-1098.7827"><tspan
+               style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text16792"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect16800);"
+         transform="translate(-0.57412718,89.266701)"
+         x="14.79411"
+         y="0"><tspan
+           x="-1139.9283"
+           y="-1048.5037"><tspan>Gagnez 5 Armures.
+</tspan></tspan><tspan
+           x="-1141.5226"
+           y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
+           x="-1141.0144"
+           y="-1039.6844"><tspan>recyclez cette carte, </tspan></tspan><tspan
+           x="-1139.9283"
+           y="-1035.2747"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text16953"
+       style="line-height:1.25;font-family:sans-serif;font-size:3.52777778px;white-space:pre;shape-inside:url(#rect16955);" />
+    <g
+       id="g17005"
+       transform="matrix(0.98740212,0,0,1.0000062,391.28472,-454.82004)">
+      <rect
+         y="-1019.4515"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect16959"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1016.8056"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect16961"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16971"
+         transform="translate(-863.6,122.15523)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect16963"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text16969"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17007);"
+           transform="translate(18.380415,1.8524701)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Métastruction</tspan></tspan></text>
+      </g>
+      <g
+         id="g16985"
+         transform="translate(-863.6,122.15523)">
+        <g
+           id="g16983"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle16973"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot16981"
+             xml:space="preserve"><flowRegion
+               id="flowRegion16977"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect16975" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara16979">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <rect
+         y="-974.99591"
+         x="-1151.7063"
+         height="39.687298"
+         width="56.496887"
+         id="rect16987"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g16997"
+         transform="translate(-863.6,122.15523)">
+        <ellipse
+           style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse16989"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text16995"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17009);"
+           transform="translate(2.7245361,2.5710205)"><tspan
+             x="-272.65234"
+             y="-1098.7827"><tspan
+               style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text17003"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17011);"
+         transform="translate(-4.995996,87.69266)"
+         x="14.79411"
+         y="0"><tspan
+           x="-1142.1435"
+           y="-1048.5037"><tspan>Détruisez 1 Enchantement
+</tspan></tspan><tspan
+           x="-1135.4229"
+           y="-1044.0941"><tspan>OU Contrez un sort </tspan></tspan><tspan
+           x="-1141.221"
+           y="-1039.6844"><tspan>détruisant ou contrant un </tspan></tspan><tspan
+           x="-1132.0622"
+           y="-1035.2747"><tspan>Enchantement.
+</tspan></tspan><tspan
+           x="-1135.5211"
+           y="-1030.8651"><tspan>Gagnez 2 Armures.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17062">
+      <g
+         id="g14786-0"
+         transform="translate(-2517.465,0.46780322)">
+        <rect
+           style="fill:#000000;fill-opacity:0.986395;fill-rule:evenodd;stroke:#82ccdd;stroke-width:0.650256;stroke-linecap:square"
+           id="rect14778-0"
+           width="575.67804"
+           height="158.75087"
+           x="-70.395233"
+           y="-2107.4167" />
+        <text
+           xml:space="preserve"
+           id="text14784-8"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14788-5);"
+           transform="matrix(28.504503,0,0,28.504503,8556.1372,57221.98)"><tspan
+             x="-300.83789"
+             y="-2077.3045"><tspan
+               style="fill:#ffffff;fill-opacity:1">Pantheon</tspan></tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
