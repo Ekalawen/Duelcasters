@@ -25913,8 +25913,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9050967"
-     inkscape:cx="15786.32"
-     inkscape:cy="-4544.2972"
+     inkscape:cx="-3062.8624"
+     inkscape:cy="-4800.7143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -27013,9 +27013,13 @@
          transform="translate(-0.44062441,6.1070561)"
          x="14.139543"
          y="0"><tspan
-           x="-1138.4289"
+           x="-1137.8682"
            y="-1048.5037"><tspan
-             style="text-align:center;text-anchor:middle">Infligez 6 Dégâts.</tspan></tspan></text>
+             style="text-align:center;text-anchor:middle">Infligez 4 Dégâts
+</tspan></tspan><tspan
+           x="-1138.3376"
+           y="-1044.0941"><tspan
+             style="text-align:center;text-anchor:middle">plus son Altitude.</tspan></tspan></text>
     </g>
     <g
        id="g8830-4"
@@ -27111,7 +27115,7 @@
          xml:space="preserve"
          id="text8353-0-25"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect8355-4-4);"
-         transform="translate(-0.36655976,92.430806)"
+         transform="translate(-0.36655976,90.314154)"
          x="14.79411"
          y="0"><tspan
            x="-1139.9283"
@@ -27120,7 +27124,14 @@
 </tspan></tspan><tspan
            x="-1137.05"
            y="-1044.0941"><tspan
-             style="text-align:center;text-anchor:middle">Piochez 1 carte.</tspan></tspan></text>
+             style="text-align:center;text-anchor:middle">Piochez 1 carte.
+</tspan></tspan><tspan
+           x="-1135.6073"
+           y="-1039.6844"><tspan
+             style="text-align:center;text-anchor:middle">Si Élévation 4, </tspan></tspan><tspan
+           x="-1142.2727"
+           y="-1035.2747"><tspan
+             style="text-align:center;text-anchor:middle">Piochez 1 autre carte.</tspan></tspan></text>
     </g>
     <g
        id="g8809-6"
@@ -51653,16 +51664,18 @@
          xml:space="preserve"
          id="text25297"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect25317);"
-         transform="translate(62.922014,93.489034)"
+         transform="translate(62.922014,90.843464)"
          x="14.79411"
          y="0"><tspan
            x="-1142.2658"
            y="-1048.5037"><tspan>Copiez un sort faisant </tspan></tspan><tspan
-           x="-1141.2564"
-           y="-1044.0941"><tspan>défausser du Vortex.
+           x="-1142.0471"
+           y="-1044.0941"><tspan>défausser ou recycler </tspan></tspan><tspan
+           x="-1132.0227"
+           y="-1039.6844"><tspan>du Vortex.
 </tspan></tspan><tspan
            x="-1136.7106"
-           y="-1039.6844"><tspan>Puis Contrez-le.</tspan></tspan></text>
+           y="-1035.2747"><tspan>Puis Contrez-le.</tspan></tspan></text>
     </g>
     <g
        id="g25361"
@@ -58132,7 +58145,7 @@
          y="0"><tspan
            x="-1137.3927"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect16746)">Infligez 4 Dégâts.
+             style="shape-inside:url(#rect16746)">Infligez 5 Dégâts.
 </tspan></tspan><tspan
            x="-1137.9655"
            y="-1044.0941"><tspan
@@ -58145,7 +58158,7 @@
              style="shape-inside:url(#rect16746)">découvrir, Infligez </tspan></tspan><tspan
            x="-1137.0465"
            y="-1030.8651"><tspan
-             style="shape-inside:url(#rect16746)">encore 4 Dégâts.</tspan></tspan></text>
+             style="shape-inside:url(#rect16746)">encore 5 Dégâts.</tspan></tspan></text>
     </g>
     <g
        id="g16794"
@@ -58244,14 +58257,14 @@
          x="14.79411"
          y="0"><tspan
            x="-1139.9283"
-           y="-1048.5037"><tspan>Gagnez 5 Armures.
+           y="-1048.5037"><tspan>Gagnez 6 Armures.
 </tspan></tspan><tspan
            x="-1141.5226"
            y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
            x="-1141.0144"
            y="-1039.6844"><tspan>recyclez cette carte, </tspan></tspan><tspan
            x="-1139.9283"
-           y="-1035.2747"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
+           y="-1035.2747"><tspan>Gagnez 6 Armures.</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
