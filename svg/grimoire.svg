@@ -10396,9 +10396,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="554.55423"
-     inkscape:cy="593.78561"
+     inkscape:zoom="1.28"
+     inkscape:cx="376.54619"
+     inkscape:cy="751.01905"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10425,7 +10425,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11680,8 +11680,8 @@
     <text
        xml:space="preserve"
        id="text3116"
-       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3118);fill:#b724aa;fill-opacity:1;stroke:#000000;stroke-width:0.37320517;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       transform="matrix(1.5966702,0,0,1.6187955,-23.044823,-10.098781)"><tspan
+       style="font-size:14.1111px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3118);fill:#b724aa;fill-opacity:1;stroke:#000000;stroke-width:0.373205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       transform="matrix(1.5966702,0,0,1.6187955,-23.044823,-11.157115)"><tspan
          x="49.609375"
          y="21.58072"><tspan
            style="font-size:14.1111px;fill:#b724aa;fill-opacity:1;stroke:#000000;stroke-width:0.373205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Grimoire</tspan></tspan></text>
@@ -11689,11 +11689,11 @@
        xml:space="preserve"
        id="text3122"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3124);stroke-width:1.01324;"
-       transform="matrix(0.97589161,0,0,0.99810558,-2.1019665,1.1227732)"><tspan
+       transform="matrix(0.97589161,0,0,0.95742812,-2.1019665,-1.7268961)"><tspan
          x="7.4414062"
          y="37.231833"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Acharnement : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Augmentez tous les Dégâts que vous infligez d'autant que votre Acharnement.</tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Augmentez tous les Dégâts (non-Bruts) que vous infligez d'autant que votre Acharnement.</tspan><tspan
            style="fill:#991e8e;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
@@ -11719,202 +11719,218 @@
 </tspan></tspan><tspan
          x="7.4414062"
          y="63.690153"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Brut : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1">Les Dégâts Bruts ne sont pas affectés par l'Acharnement du joueur. De même l'Armure Brute n'est pas </tspan></tspan><tspan
+         x="7.4414062"
+         y="68.981818"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1">affectée par sa Détermination.</tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+</tspan></tspan><tspan
+         x="7.4414062"
+         y="74.273482"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Compétence : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Type de carte défensive et utilitaire.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="68.981818"><tspan
+         y="79.565146"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Contrer : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Lorsque vous contrez un sort dans le Vortex, retirez-le du Vortex et mettez-le dans la défausse de son </tspan></tspan><tspan
          x="7.4414062"
-         y="74.273482"><tspan
+         y="84.85681"><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">proriétaire. Le sort ne se résoudra pas. Puis comblez le trou par les sorts suivants.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="79.565146"><tspan
+         y="90.148474"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Copier : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Appliquez les effets du sort choisi dans le Vortex.
 </tspan></tspan><tspan
          x="7.4414062"
-         y="84.85681"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Découvrir : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Regardez 3 premières cartes parmi la pioche des cartes rares, mettez-en une dans votre défausse </tspan></tspan><tspan
-         x="7.4414062"
-         y="90.148474"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">face caché, puis mettez les autres sous la pile des cartes rares. Certaines cartes vous font mettre la carte choisie </tspan></tspan><tspan
-         x="7.4414062"
          y="95.440138"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Découvrir : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Regardez 3 premières cartes parmi la pioche des cartes rares, mettez-en une au-dessus de votre </tspan></tspan><tspan
+         x="7.4414062"
+         y="100.7318"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">pioche, puis mettez les autres sous la pile des cartes rares. Certaines cartes vous font mettre la carte choisie </tspan></tspan><tspan
+         x="7.4414062"
+         y="106.02347"><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">directement en main.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="100.7318"><tspan
+         y="111.31513"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Défausser : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Mettez une carte de votre main dans votre défausse. Si votre main est vide, vouis n'avez rien à </tspan></tspan><tspan
          x="7.4414062"
-         y="106.02347"><tspan
+         y="116.60679"><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">faire et l'effet se résoudra quand même.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="111.31513"><tspan
+         y="121.89846"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Dégât : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Permet de diminuer le nombre de points de vie de votre adversaire d'autant que des Dégâts infligés. Si </tspan></tspan><tspan
          x="7.4414062"
-         y="116.60679"><tspan
+         y="127.19012"><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">votre adversaire arrive à 0 points de vie (ou moins), vous gagnez !</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="121.89846"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Dégâts non-bloqués : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Des Dégâts qui n'ont pas été bloqué par de l'Armure.</tspan><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
-</tspan></tspan><tspan
-         x="7.4414062"
-         y="127.19012"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Détermination : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Augmentez tous vos gains d'Armures d'autant que votre Détermination.</tspan><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
-</tspan></tspan><tspan
-         x="7.4414062"
          y="132.48179"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Dégâts non-bloqués : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Des Dégâts qui n'ont pas été entièrement bloqués par de l'Armure.</tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+</tspan></tspan><tspan
+         x="7.4414062"
+         y="137.77344"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Détermination : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Augmentez tous vos gains d'Armures (non-Brutes) d'autant que votre Détermination.</tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+</tspan></tspan><tspan
+         x="7.4414062"
+         y="143.0651"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Détruire un Enchantement : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Mettez l'Enchantement détruit dans la défausse de son propriétaire.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="137.77344"><tspan
+         y="148.35676"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Élévation X : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Cette carte ne peut être joué que sur les emplacements d'altitude au moins X dans le Vortex.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="143.0651"><tspan
+         y="153.64841"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Si Élévation X : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1">Cette carte peut être joué n'importe où, mais aura des effets supplémentaires si elle est </tspan></tspan><tspan
+         x="7.4414062"
+         y="158.94007"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1">résolue à une altitude d'au moins X dans le Vortex.</tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+</tspan></tspan><tspan
+         x="7.4414062"
+         y="164.23173"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Enchantement : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Type de carte restant en jeu après sa résolution et améliorant vos effets tant qu'elle n'est pas </tspan></tspan><tspan
          x="7.4414062"
-         y="148.35676"><tspan
+         y="169.52338"><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">détruite.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="153.64841"><tspan
+         y="174.81504"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Instantané : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Lorsque vous jouez cette carte, résolvez-là immédiatement. Vous conservez la priorité.</tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Lorsque vous jouez cette carte vous pouvez la résoudre immédiatement et conserver la priorité. </tspan></tspan><tspan
+         x="7.4414062"
+         y="180.1067"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Ou vous pouvez jouer directement une autre carte par-dessus et céder la priorité.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="158.94007"><tspan
+         y="185.39835"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Jouer un sort : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action de mettre une carte de votre main dans le Vortex. La carte devient alors un sort.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="164.23173"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Mana : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Ressource nécessaire pour lancer un sort. Vous devez payer le coût en mana de chaque sort pour pouvoir </tspan></tspan><tspan
-         x="7.4414062"
-         y="169.52338"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">le jouer. Vous regagnez du mana au début du tour.</tspan><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
-</tspan></tspan><tspan
-         x="7.4414062"
-         y="174.81504"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Piocher : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action de prendre la carte du dessus de sa pioche et de la mettre dans sa main. Si votre pioche est </tspan></tspan><tspan
-         x="7.4414062"
-         y="180.1067"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">vide, mélangez votre défausse puis Piochez.</tspan><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
-</tspan></tspan><tspan
-         x="7.4414062"
-         y="185.39835"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Priorité : </tspan><tspan
-           style="font-size:3.52778px;fill:#101010;fill-opacity:1;stroke-width:1.01324">Si vous avez la priorité, c'est à vous de jouer. Vous pouvez soit jouer un sort, soit résoudre le sort le </tspan></tspan><tspan
-         x="7.4414062"
          y="190.69001"><tspan
-           style="font-size:3.52778px;fill:#101010;fill-opacity:1;stroke-width:1.01324">plus haut de la pile. Si vous jouez un sort, votre adversaire récupère alors la priorité. Si vous décidez de résoure le </tspan></tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Linceul : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1">Détruire un Enchantement avec Linceul ou Contrer une carte avec Linceul coûte 1 Mana de plus. Si ce </tspan></tspan><tspan
          x="7.4414062"
          y="195.98166"><tspan
-           style="font-size:3.52778px;fill:#101010;fill-opacity:1;stroke-width:1.01324">sort le plus haut de la pile, le joueur ne controlant pas ce sort récupère alors la priorité.</tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1">Mana ne peut pas être payé, cet effet de la carte ne sera pas résolu.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
          y="201.27332"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Purifier une carte : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Mettez cette en-dessous de la pioche d'où elle venait à l'origine. Cela permet d'affiner </tspan></tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Mana : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Ressource nécessaire pour lancer un sort. Vous devez payer le coût en mana de chaque sort pour pouvoir </tspan></tspan><tspan
          x="7.4414062"
          y="206.56498"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">votre deck pour ne piocher ensuite que vos meilleures cartes.</tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">le jouer. Vous regagnez du mana au début du tour.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
          y="211.85663"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Recycler : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action de piocher une carte puis d'en défausser une. Cette action ne compte pas comme une </tspan></tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Piocher : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action de prendre la carte du dessus de sa pioche et de la mettre dans sa main. Si votre pioche est </tspan></tspan><tspan
          x="7.4414062"
          y="217.14829"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">défausse.</tspan><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">vide, mélangez votre défausse puis Piochez.
 </tspan></tspan><tspan
          x="7.4414062"
          y="222.43995"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Regarder X : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Regardez littéralement les X premières cartes de votre pioche, défaussez-en autant que vous le </tspan></tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1">- Prévisible :</tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324"> Lorsque vous jouez cette carte, la prochaine carte sans Instantané que joue votre adversaire gagne </tspan></tspan><tspan
          x="7.4414062"
          y="227.7316"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">voulez, puis remettez les autres au dessus de votre pioche dans l'ordre de votre choix.</tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Instantané.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
          y="233.02326"><tspan
-           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Résoudre un sort : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action d'appliquer les effets d'une carte sort lorsque celle-ci est dans le Vortex. La carte est </tspan></tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Priorité : </tspan><tspan
+           style="font-size:3.52778px;fill:#101010;fill-opacity:1;stroke-width:1.01324">Si vous avez la priorité, c'est à vous de jouer. Vous pouvez soit jouer un sort, soit résoudre le sort le </tspan></tspan><tspan
          x="7.4414062"
          y="238.31492"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">ensuite mise dans la défausse de son propriétaire. Seule la carte du dessus du Vortex peut être résolue. Si une </tspan></tspan><tspan
+           style="font-size:3.52778px;fill:#101010;fill-opacity:1;stroke-width:1.01324">plus haut de la pile. Si vous jouez un sort, votre adversaire récupère alors la priorité. Si vous décidez de résoure le </tspan></tspan><tspan
          x="7.4414062"
          y="243.60657"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">partie d'un sort ne peut pas être résolue, les autres parties sont quand même résolues.</tspan><tspan
+           style="font-size:3.52778px;fill:#101010;fill-opacity:1;stroke-width:1.01324">sort le plus haut de la pile, le joueur ne controlant pas ce sort récupère alors la priorité.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
          y="248.89823"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Recycler : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action de piocher une carte puis d'en défausser une.</tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+</tspan></tspan><tspan
+         x="7.4414062"
+         y="254.18989"><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Résoudre un sort : </tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Action d'appliquer les effets d'une carte sort lorsque celle-ci est dans le Vortex. La carte est </tspan></tspan><tspan
+         x="7.4414062"
+         y="259.48154"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">ensuite mise dans la défausse de son propriétaire. Seule la carte du dessus du Vortex peut être résolue. Si une </tspan></tspan><tspan
+         x="7.4414062"
+         y="264.77321"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">partie d'un sort ne peut pas être résolue, les autres parties sont quand même résolues.</tspan><tspan
+           style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
+</tspan></tspan><tspan
+         x="7.4414062"
+         y="270.06487"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Rituel : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Cette carte ne peut être joué que sur le premier et le dernier emplacement du Vortex.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="254.18989"><tspan
+         y="275.35653"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Sort : </tspan><tspan
            style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Toutes les cartes sont des sorts une fois qu'elles sont dans le Vortex.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="259.48154"><tspan
+         y="280.64818"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Tutoriser : </tspan><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Regardez dans votre pioche, prenez la carte que vous voulez puis mettez-là dans votre main. </tspan></tspan><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Regardez dans votre pioche et votre défausse, prenez la carte que vous voulez puis mettez-là dans </tspan></tspan><tspan
          x="7.4414062"
-         y="264.77321"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">Mélangez ensuite votre pioche. Si Tutoriser est spécifique à un type de carte, vous devrer alors montrer la carte à </tspan></tspan><tspan
+         y="285.93984"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">votre main. Mélangez ensuite votre pioche. Si Tutoriser est spécifique à un type de carte, vous devrer alors montrer </tspan></tspan><tspan
          x="7.4414062"
-         y="270.06487"><tspan
-           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">votre adversaire avant de la mettre dans votre main.</tspan><tspan
+         y="291.2315"><tspan
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:1.01324">la carte à votre adversaire avant de la mettre dans votre main.</tspan><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">
 </tspan></tspan><tspan
          x="7.4414062"
-         y="275.35653"><tspan
+         y="296.52315"><tspan
            style="font-size:4.23333px;fill:#b724aa;fill-opacity:1;stroke-width:1.01324">- Vortex : </tspan><tspan
-           style="font-size:3.52778px;stroke-width:1.01324">L'</tspan><tspan
-           style="font-size:3.52778px;stroke-width:1.01324">endroit où vous et votre adversaire jouez des cartes. Si une carte est joué sur le dernier emplacement </tspan></tspan><tspan
+           style="font-size:3.52778px;stroke-width:1.01324">L'endroit où vous et votre adversaire jouez des cartes. Si une carte est joué sur le dernier emplacement </tspan></tspan><tspan
          x="7.4414062"
-         y="280.64818"><tspan
+         y="301.81481"><tspan
            style="font-size:3.52778px;stroke-width:1.01324">du Vortex, alors tous les sorts seront immédiatement résolus dans l'ordre haut-bas sans que ne personne puisse </tspan></tspan><tspan
          x="7.4414062"
-         y="285.93984"><tspan
+         y="307.10647"><tspan
            style="font-size:3.52778px;stroke-width:1.01324">intervenir. Le joueur qui n'est pas le dernier a avoir résolu un sort récupère alors la priorité.</tspan></tspan></text>
   </g>
 </svg>
