@@ -21,6 +21,12 @@
   <defs
      id="defs2">
     <rect
+       x="-533.66626"
+       y="-1703.8894"
+       width="61.23156"
+       height="37.169891"
+       id="rect19775" />
+    <rect
        x="-615.05399"
        y="-657.14894"
        width="73.08151"
@@ -25757,8 +25763,8 @@
     <rect
        x="-1142.5505"
        y="-1051.6254"
-       width="39.101532"
-       height="17.773424"
+       width="43.82978"
+       height="27.469857"
        id="rect16693" />
     <rect
        x="-287.55527"
@@ -25904,6 +25910,738 @@
        width="42.660366"
        height="22.733864"
        id="rect17073" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect7529-62" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect16855" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect7531-3" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect16858" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect8355-4-60" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect16861" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740966"
+       height="18.976662"
+       id="rect7242-9" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17029" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740966"
+       height="18.976662"
+       id="rect17086" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740966"
+       height="18.976662"
+       id="rect17108" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="57.43819"
+       height="24.763841"
+       id="rect17110" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740967"
+       height="18.976662"
+       id="rect7242-9-4" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740967"
+       height="18.976662"
+       id="rect17121" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740967"
+       height="18.976662"
+       id="rect17086-9" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740967"
+       height="18.976662"
+       id="rect17124" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740967"
+       height="18.976662"
+       id="rect17108-8" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="59.740967"
+       height="18.976662"
+       id="rect17127" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="57.43819"
+       height="24.763842"
+       id="rect17110-9" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="57.43819"
+       height="24.763842"
+       id="rect17130" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17348" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17350" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17352" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17436" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17438" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17440" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17499" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17501" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17503" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17499-4" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17544" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17501-7" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17547" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17503-1" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17550" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17746" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17748" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17750" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17872" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17874" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17876" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect17938" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect17940" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect17942" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18038" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18040" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18042" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18097" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18099" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18101" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18185" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18187" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18189" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18247" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18249" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18251" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18341" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18343" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18345" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18403" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18405" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18407" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18497" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18499" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18501" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18563" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18565" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18567" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18629" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18631" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18633" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18705" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18707" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18709" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18775" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18777" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="47.915155"
+       height="27.049983"
+       id="rect18779" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18881" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18883" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="47.915155"
+       height="27.049983"
+       id="rect18885" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect18935" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect18937" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect18939" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19017" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19019" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19021" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19073" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19075" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="41.173922"
+       height="26.835475"
+       id="rect19077" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19152" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19154" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="41.173922"
+       height="26.835475"
+       id="rect19156" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19219" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19221" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19223" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19319" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19321" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19324" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19386" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19388" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19390" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19486" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19488" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19490" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19540" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19542" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19544" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19622" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19624" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19627" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="57.43819"
+       height="24.763841"
+       id="rect19639" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19701" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19703" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="43.82978"
+       height="27.469857"
+       id="rect19705" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19767" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19769" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="43.82978"
+       height="27.469857"
+       id="rect19771" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19825" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19827" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19829" />
+    <rect
+       x="-287.55527"
+       y="-1138.5281"
+       width="55.00407"
+       height="7.5770912"
+       id="rect19877" />
+    <rect
+       x="-272.65311"
+       y="-1101.5927"
+       width="25.929167"
+       height="10.054167"
+       id="rect19879" />
+    <rect
+       x="-1142.5505"
+       y="-1051.6254"
+       width="39.101532"
+       height="17.773424"
+       id="rect19881" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -25912,9 +26650,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9050967"
-     inkscape:cx="-3062.8624"
-     inkscape:cy="-4800.7143"
+     inkscape:zoom="0.73673541"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -25923,7 +26661,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-object-midpoints="true"
@@ -27015,7 +27753,7 @@
          y="0"><tspan
            x="-1137.8682"
            y="-1048.5037"><tspan
-             style="text-align:center;text-anchor:middle">Infligez 4 Dégâts
+             style="text-align:center;text-anchor:middle">Infligez 3 Dégâts
 </tspan></tspan><tspan
            x="-1138.3376"
            y="-1044.0941"><tspan
@@ -27438,7 +28176,7 @@
          y="0"><tspan
            x="-1133.5653"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect9522)">Vous avez 2 </tspan></tspan><tspan
+             style="shape-inside:url(#rect9522)">Vous avez 3 </tspan></tspan><tspan
            x="-1139.3849"
            y="-1044.0941"><tspan
              style="shape-inside:url(#rect9522)">Déterminations de </tspan></tspan><tspan
@@ -27960,12 +28698,20 @@
          xml:space="preserve"
          id="text8353-0-3-6"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect8355-4-0-2);"
-         transform="translate(-0.44062923,94.666646)"
+         transform="translate(-0.44062923,90.256978)"
          x="14.79411"
          y="0"><tspan
            x="-1137.9689"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect8355-4-0-2)">Piochez 3 cartes.</tspan></tspan></text>
+             style="shape-inside:url(#rect8355-4-0-2)">Piochez 3 cartes.
+</tspan></tspan><tspan
+           x="-1135.6073"
+           y="-1044.0941"><tspan
+             style="shape-inside:url(#rect8355-4-0-2)">Si Élévation 6,
+</tspan></tspan><tspan
+           x="-1135.8115"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect8355-4-0-2)">Coûte 0 Mana. </tspan></tspan></text>
     </g>
     <g
        id="g8830-6-2-6"
@@ -28950,12 +29696,16 @@
          xml:space="preserve"
          id="text8353-3-0"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect8355-2-4);"
-         transform="translate(62.847876,6.1070561)"
+         transform="translate(62.847876,2.0393141)"
          x="14.139543"
          y="0"><tspan
-           x="-1138.4289"
-           y="-1048.5037"><tspan
-             style="text-align:center;text-anchor:middle">Infligez 9 Dégâts.</tspan></tspan></text>
+           x="-1137.8682"
+           y="-1048.5037"><tspan>Infligez 2 Dégâts
+</tspan></tspan><tspan
+           x="-1135.6762"
+           y="-1044.0941"><tspan>plus 2 fois son </tspan></tspan><tspan
+           x="-1130.4535"
+           y="-1039.6844"><tspan>Altitude.</tspan></tspan></text>
     </g>
     <g
        id="g2678-1-5-8-2-3-3"
@@ -57369,11 +58119,14 @@
          xml:space="preserve"
          id="text8353-0-3-6-4-5"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect8355-4-0-2-2-77);"
-         transform="translate(-0.44062923,94.666646)"
+         transform="translate(-0.36655953,92.19051)"
          x="14.79411"
          y="0"><tspan
+           x="-1132.9839"
+           y="-1048.5037"><tspan>Instantané.
+</tspan></tspan><tspan
            x="-1139.9283"
-           y="-1048.5037"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
+           y="-1044.0941"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
     </g>
     <g
        id="g21251"
@@ -58001,7 +58754,7 @@
                  width="181.58759"
                  id="rect16649" /></flowRegion><flowPara
                style="font-size:45.7323px;line-height:113%"
-               id="flowPara16653">0</flowPara></flowRoot>
+               id="flowPara16653">1</flowPara></flowRoot>
         </g>
       </g>
       <path
@@ -58032,21 +58785,29 @@
          xml:space="preserve"
          id="text16685"
          style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect16693);"
-         transform="translate(-0.44062441,1.3445855)"
+         transform="translate(-2.921154,-4.5444262)"
          x="14.139543"
          y="0"><tspan
-           x="-1136.59"
+           x="-1141.5354"
            y="-1048.5037"><tspan
-             style="shape-inside:url(#rect16693)">Contrez un sort </tspan></tspan><tspan
-           x="-1139.552"
+             style="shape-inside:url(#rect16693)">Contrez un sort </tspan><tspan
+             style="shape-inside:url(#rect16693)">coûtant </tspan></tspan><tspan
+           x="-1137.6898"
            y="-1044.0941"><tspan
-             style="shape-inside:url(#rect16693)">coûtant 0 Mana ou </tspan></tspan><tspan
-           x="-1139.0498"
+             style="shape-inside:url(#rect16693)">0 Mana ou pouvant </tspan></tspan><tspan
+           x="-1135.6056"
            y="-1039.6844"><tspan
-             style="shape-inside:url(#rect16693)">gagnant du Mana.
+             style="shape-inside:url(#rect16693)">gagner du Mana.
 </tspan></tspan><tspan
-           x="-1138.4289"
+           x="-1138.9628"
            y="-1035.2747"><tspan
+             style="shape-inside:url(#rect16693)">Gagnez 1 Mana si ce </tspan></tspan><tspan
+           x="-1138.3384"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect16693)">sort coûtait 0 Mana.
+</tspan></tspan><tspan
+           x="-1136.0646"
+           y="-1026.4554"><tspan
              style="shape-inside:url(#rect16693)">Infligez 2 Dégâts.</tspan></tspan></text>
     </g>
     <g
@@ -58153,12 +58914,12 @@
            x="-1136.193"
            y="-1039.6844"><tspan
              style="shape-inside:url(#rect16746)">allait piocher ou </tspan></tspan><tspan
-           x="-1137.8113"
+           x="-1139.4942"
            y="-1035.2747"><tspan
-             style="shape-inside:url(#rect16746)">découvrir, Infligez </tspan></tspan><tspan
-           x="-1137.0465"
+             style="shape-inside:url(#rect16746)">découvrir, Infligez 4 </tspan></tspan><tspan
+           x="-1135.752"
            y="-1030.8651"><tspan
-             style="shape-inside:url(#rect16746)">encore 5 Dégâts.</tspan></tspan></text>
+             style="shape-inside:url(#rect16746)">Dégâts de plus.</tspan></tspan></text>
     </g>
     <g
        id="g16794"
@@ -58400,6 +59161,3816 @@
              y="-2077.3045"><tspan
                style="fill:#ffffff;fill-opacity:1">Pantheon</tspan></tspan></text>
       </g>
+    </g>
+    <g
+       id="g17074"
+       transform="translate(130.63802,-93.017576)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect7415-6"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect7417-4"
+         style="fill:#e59589;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text7240-38"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7242-9);"
+         transform="matrix(0.98740108,0,0,1.0001004,-970.09534,-87.414125)"
+         x="22.142298"
+         y="0"><tspan
+           x="-270.13031"
+           y="-1134.7818"><tspan
+             style="text-align:center;text-anchor:middle">Résolution :
+</tspan></tspan><tspan
+           x="-280.26302"
+           y="-1129.4902"><tspan
+             style="text-align:center;text-anchor:middle">Infligez 1 Dégât Brut.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17084"
+       transform="translate(130.63802,-61.767077)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect17076"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect17078"
+         style="fill:#6fa9d1;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text17082"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17086);"
+         transform="matrix(0.98740108,0,0,1.0001004,-970.09534,-87.414125)"
+         x="22.142298"
+         y="0"><tspan
+           x="-270.13031"
+           y="-1134.7818"><tspan
+             style="text-align:center;text-anchor:middle">Résolution :
+</tspan></tspan><tspan
+           x="-274.54451"
+           y="-1129.4902"><tspan
+             style="text-align:center;text-anchor:middle">Piochez 1 carte.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17096"
+       transform="translate(130.63802,-30.516578)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect17088"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect17090"
+         style="fill:#e59589;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text17094"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17108);"
+         transform="matrix(0.98740108,0,0,1.0001004,-970.09534,-87.414125)"
+         x="22.142298"
+         y="0"><tspan
+           x="-270.13031"
+           y="-1134.7818"><tspan
+             style="text-align:center;text-anchor:middle">Résolution :
+</tspan></tspan><tspan
+           x="-282.46857"
+           y="-1129.4902"><tspan
+             style="text-align:center;text-anchor:middle">Infligez 3 Dégâts Bruts.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17106"
+       transform="translate(130.63802,0.73392096)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect17098"
+         style="fill:#fa983a;fill-opacity:0.996078;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect17100"
+         style="fill:#6fa9d1;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text17104"
+         style="font-size:3.72754px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17110);"
+         transform="matrix(0.98740108,0,0,1.0001004,-968.99235,-89.130164)"
+         x="22.142298"
+         y="0"><tspan
+           x="-280.92088"
+           y="-1135.2293"><tspan
+             style="font-size:3.72754px;text-align:center;text-anchor:middle">Coûte 1 Mana de moins
+</tspan></tspan><tspan
+           x="-261.66708"
+           y="-1130.5699"><tspan
+             style="font-size:3.72754px;text-align:center;text-anchor:middle">OU
+</tspan></tspan><tspan
+           x="-273.35569"
+           y="-1125.9105"><tspan
+             style="font-size:3.72754px;text-align:center;text-anchor:middle">Gagnez 1 Mana</tspan></tspan></text>
+    </g>
+    <g
+       id="g17074-1"
+       transform="translate(1312.1969,1281.5278)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect7415-6-7"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect7417-4-9"
+         style="fill:#e59589;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text7240-38-0"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7242-9-4);"
+         transform="matrix(0.98740108,0,0,1.0001004,-970.09534,-87.414125)"
+         x="22.142298"
+         y="0"><tspan
+           x="-270.13031"
+           y="-1134.7818"><tspan
+             style="text-align:center;text-anchor:middle">Résolution :
+</tspan></tspan><tspan
+           x="-280.26302"
+           y="-1129.4902"><tspan
+             style="text-align:center;text-anchor:middle">Infligez 1 Dégât Brut.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17084-6"
+       transform="translate(1312.1969,1312.7783)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect17076-9"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect17078-3"
+         style="fill:#6fa9d1;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text17082-2"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17086-9);"
+         transform="matrix(0.98740108,0,0,1.0001004,-970.09534,-87.414125)"
+         x="22.142298"
+         y="0"><tspan
+           x="-270.13031"
+           y="-1134.7818"><tspan
+             style="text-align:center;text-anchor:middle">Résolution :
+</tspan></tspan><tspan
+           x="-274.54451"
+           y="-1129.4902"><tspan
+             style="text-align:center;text-anchor:middle">Piochez 1 carte.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17096-5"
+       transform="translate(1312.1969,1344.0288)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect17088-4"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect17090-9"
+         style="fill:#e59589;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text17094-5"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17108-8);"
+         transform="matrix(0.98740108,0,0,1.0001004,-970.09534,-87.414125)"
+         x="22.142298"
+         y="0"><tspan
+           x="-270.13031"
+           y="-1134.7818"><tspan
+             style="text-align:center;text-anchor:middle">Résolution :
+</tspan></tspan><tspan
+           x="-282.46857"
+           y="-1129.4902"><tspan
+             style="text-align:center;text-anchor:middle">Infligez 3 Dégâts Bruts.</tspan></tspan></text>
+    </g>
+    <g
+       id="g17380"
+       transform="translate(1118.589,1888.0645)">
+      <g
+         id="g17346"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-631.39834)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17296"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17298"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17308"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17300"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17306"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17348);"
+             transform="translate(18.444386,1.3574103)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Trait Magique</tspan></tspan></text>
+        </g>
+        <g
+           id="g17322"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g17320"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17310"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17318"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17314"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17312" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17316">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path17324"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g17334"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17326"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17332"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17350);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17344"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17352);"
+           transform="translate(-0.44062441,6.1070561)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1137.8682"
+             y="-1048.5037"><tspan
+               style="text-align:center;text-anchor:middle">Infligez 3 Dégâts
+</tspan></tspan><tspan
+             x="-1138.3376"
+             y="-1044.0941"><tspan
+               style="text-align:center;text-anchor:middle">plus son Altitude.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17434"
+       transform="translate(1042.6574,1870.8433)">
+      <g
+         id="g17432"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-631.39834)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17382"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17384"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17394"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17386"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17392"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17436);"
+             transform="translate(18.444386,1.3574103)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Trait Magique</tspan></tspan></text>
+        </g>
+        <g
+           id="g17408"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g17406"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17396"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17404"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17400"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17398" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17402">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path17410"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g17420"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17412"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17418"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17438);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17430"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17440);"
+           transform="translate(-0.44062441,6.1070561)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1137.8682"
+             y="-1048.5037"><tspan
+               style="text-align:center;text-anchor:middle">Infligez 3 Dégâts
+</tspan></tspan><tspan
+             x="-1138.3376"
+             y="-1044.0941"><tspan
+               style="text-align:center;text-anchor:middle">plus son Altitude.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17533"
+       transform="translate(743.29326,1732.259)">
+      <g
+         id="g17497"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-719.68739)">
+        <rect
+           y="-931.1629"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17443"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-928.51703"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17445"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17455"
+           transform="translate(-863.6,210.4438)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17447"
+             style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17453"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17499);"
+             transform="translate(20.445296,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Obstination</tspan></tspan></text>
+        </g>
+        <g
+           id="g17469"
+           transform="translate(-863.6,210.4438)">
+          <g
+             id="g17467"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17457"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17465"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17461"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17459" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17463">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path17471"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.6596,-897.2906 c 0,0 2.1045,10.5833 28.2017,10.5833 26.0972,0 28.2251,-10.5833 28.2251,-10.5833 l 0.023,50.2706 h -56.4969 z"
+           sodipodi:nodetypes="czcccc" />
+        <g
+           id="g17481"
+           transform="translate(-863.6,210.4438)">
+          <ellipse
+             style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17473"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17479"
+             style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17501);"
+             transform="translate(2.362723,2.9958019)"><tspan
+               x="-272.65234"
+               y="-1099.0948"><tspan
+                 style="shape-inside:url(#rect7718-3)">Enchantement</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17495"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17503);"
+           transform="translate(-0.36534696,178.51473)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1133.5653"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect9522)">Vous avez 3 </tspan></tspan><tspan
+             x="-1139.3849"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect9522)">Déterminations de </tspan></tspan><tspan
+             x="-1127.2073"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect9522)">plus.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17533-8"
+       transform="translate(992.52905,1652.173)">
+      <g
+         id="g17497-6"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-719.68739)">
+        <rect
+           y="-931.1629"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17443-5"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-928.51703"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17445-0"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17455-9"
+           transform="translate(-863.6,210.4438)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17447-7"
+             style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17453-0"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17499-4);"
+             transform="translate(20.445296,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Obstination</tspan></tspan></text>
+        </g>
+        <g
+           id="g17469-7"
+           transform="translate(-863.6,210.4438)">
+          <g
+             id="g17467-5"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17457-4"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17465-4"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17461-1"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17459-2" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17463-8">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path17471-5"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.6596,-897.2906 c 0,0 2.1045,10.5833 28.2017,10.5833 26.0972,0 28.2251,-10.5833 28.2251,-10.5833 l 0.023,50.2706 h -56.4969 z"
+           sodipodi:nodetypes="czcccc" />
+        <g
+           id="g17481-3"
+           transform="translate(-863.6,210.4438)">
+          <ellipse
+             style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17473-1"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17479-9"
+             style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17501-7);"
+             transform="translate(2.362723,2.9958019)"><tspan
+               x="-272.65234"
+               y="-1099.0948"><tspan
+                 style="shape-inside:url(#rect7718-3)">Enchantement</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17495-1"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17503-1);"
+           transform="translate(-0.36534696,178.51473)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1133.5653"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect9522)">Vous avez 3 </tspan></tspan><tspan
+             x="-1139.3849"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect9522)">Déterminations de </tspan></tspan><tspan
+             x="-1127.2073"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect9522)">plus.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17776"
+       transform="translate(874.64275,1818.8857)">
+      <g
+         id="g17744"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-631.39827)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17698"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17700"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17710"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17702"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17708"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17746);"
+             transform="translate(17.695078,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Concentration</tspan></tspan></text>
+        </g>
+        <g
+           id="g17724"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g17722"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17712"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17720"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17716"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17714" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17718">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect17726"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17736"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17728"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17734"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17748);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17742"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17750);"
+           transform="translate(-0.36655953,92.19051)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1132.9839"
+             y="-1048.5037"><tspan>Instantané.
+</tspan></tspan><tspan
+             x="-1139.9283"
+             y="-1044.0941"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17870"
+       transform="translate(798.96106,1778.5867)">
+      <g
+         id="g17868"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-631.39827)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17822"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17824"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17834"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17826"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17832"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17872);"
+             transform="translate(17.695078,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Concentration</tspan></tspan></text>
+        </g>
+        <g
+           id="g17848"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g17846"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17836"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17844"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17840"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17838" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17842">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect17850"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17860"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17852"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17858"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17874);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17866"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17876);"
+           transform="translate(-0.36655953,92.19051)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1132.9839"
+             y="-1048.5037"><tspan>Instantané.
+</tspan></tspan><tspan
+             x="-1139.9283"
+             y="-1044.0941"><tspan>Gagnez 8 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g17974"
+       transform="translate(897.00338,1950.5529)">
+      <g
+         id="g17936"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-719.6874)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17878"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17880"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17890"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17882"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17888"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17938);"
+             transform="translate(14.196586,1.3574103)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Bouclier Magique</tspan></tspan></text>
+        </g>
+        <g
+           id="g17904"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g17902"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17892"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17900"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17896"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17894" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17898">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect17906"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17916"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse17908"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text17914"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17940);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-0)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text17934"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect17942);"
+           transform="translate(-0.36655976,90.314154)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1139.9283"
+             y="-1048.5037"><tspan
+               style="text-align:center;text-anchor:middle">Gagnez 6 Armures.
+</tspan></tspan><tspan
+             x="-1137.05"
+             y="-1044.0941"><tspan
+               style="text-align:center;text-anchor:middle">Piochez 1 carte.
+</tspan></tspan><tspan
+             x="-1135.6073"
+             y="-1039.6844"><tspan
+               style="text-align:center;text-anchor:middle">Si Élévation 4, </tspan></tspan><tspan
+             x="-1142.2727"
+             y="-1035.2747"><tspan
+               style="text-align:center;text-anchor:middle">Piochez 1 autre carte.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18036"
+       transform="translate(863.96348,1964.5589)">
+      <g
+         id="g18034"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-719.6874)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect17976"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect17978"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g17988"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect17980"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text17986"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18038);"
+             transform="translate(14.196586,1.3574103)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Bouclier Magique</tspan></tspan></text>
+        </g>
+        <g
+           id="g18002"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18000"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle17990"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot17998"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion17994"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect17992" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara17996">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18004"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18014"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18006"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18012"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18040);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-0)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18032"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18042);"
+           transform="translate(-0.36655976,90.314154)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1139.9283"
+             y="-1048.5037"><tspan
+               style="text-align:center;text-anchor:middle">Gagnez 6 Armures.
+</tspan></tspan><tspan
+             x="-1137.05"
+             y="-1044.0941"><tspan
+               style="text-align:center;text-anchor:middle">Piochez 1 carte.
+</tspan></tspan><tspan
+             x="-1135.6073"
+             y="-1039.6844"><tspan
+               style="text-align:center;text-anchor:middle">Si Élévation 4, </tspan></tspan><tspan
+             x="-1142.2727"
+             y="-1035.2747"><tspan
+               style="text-align:center;text-anchor:middle">Piochez 1 autre carte.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18129"
+       transform="translate(802.5551,1758.1163)">
+      <g
+         id="g18095"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-543.10919)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18044"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18046"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18057"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18049"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18055"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18097);"
+             transform="translate(19.624675,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Canalisation</tspan></tspan></text>
+        </g>
+        <g
+           id="g18071"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g18069"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18059"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18067"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18063"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18061" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18065">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path18073"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g18083"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18075"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18081"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18099);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18093"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18101);"
+           transform="translate(-0.44062441,6.1070561)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1128.6612"
+             y="-1048.5037"><tspan
+               style="text-align:center;text-anchor:middle">Rituel.
+</tspan></tspan><tspan
+             x="-1138.4289"
+             y="-1044.0941"><tspan
+               style="text-align:center;text-anchor:middle">Infligez 8 Dégâts.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18183"
+       transform="translate(775.6204,1740.5189)">
+      <g
+         id="g18181"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-543.10919)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18131"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18133"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18143"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18135"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18141"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18185);"
+             transform="translate(19.624675,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Canalisation</tspan></tspan></text>
+        </g>
+        <g
+           id="g18157"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g18155"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18145"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18153"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18149"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18147" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18151">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path18159"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g18169"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18161"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18167"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18187);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18179"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18189);"
+           transform="translate(-0.44062441,6.1070561)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1128.6612"
+             y="-1048.5037"><tspan
+               style="text-align:center;text-anchor:middle">Rituel.
+</tspan></tspan><tspan
+             x="-1138.4289"
+             y="-1044.0941"><tspan
+               style="text-align:center;text-anchor:middle">Infligez 8 Dégâts.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18339"
+       transform="translate(996.12034,1693.8321)">
+      <g
+         id="g18337"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-719.68739)">
+        <rect
+           y="-931.1629"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18283"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-928.51703"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18285"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18295"
+           transform="translate(-863.6,210.4438)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18287"
+             style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18293"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18341);"
+             transform="translate(20.445296,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Obstination</tspan></tspan></text>
+        </g>
+        <g
+           id="g18309"
+           transform="translate(-863.6,210.4438)">
+          <g
+             id="g18307"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18297"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18305"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18301"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18299" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18303">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path18311"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.6596,-897.2906 c 0,0 2.1045,10.5833 28.2017,10.5833 26.0972,0 28.2251,-10.5833 28.2251,-10.5833 l 0.023,50.2706 h -56.4969 z"
+           sodipodi:nodetypes="czcccc" />
+        <g
+           id="g18321"
+           transform="translate(-863.6,210.4438)">
+          <ellipse
+             style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18313"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18319"
+             style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18343);"
+             transform="translate(2.362723,2.9958019)"><tspan
+               x="-272.65234"
+               y="-1099.0948"><tspan
+                 style="shape-inside:url(#rect7718-3)">Enchantement</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18335"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18345);"
+           transform="translate(-0.36534696,178.51473)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1133.5653"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect9522)">Vous avez 3 </tspan></tspan><tspan
+             x="-1139.3849"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect9522)">Déterminations de </tspan></tspan><tspan
+             x="-1127.2073"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect9522)">plus.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18437"
+       transform="translate(966.3181,1570.7075)">
+      <g
+         id="g18401"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-454.82004)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18347"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18349"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18359"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18351"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18357"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18403);"
+             transform="translate(19.469646,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Perturbation</tspan></tspan></text>
+        </g>
+        <g
+           id="g18373"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g18371"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18361"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18369"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18365"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18363" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18367">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path18375"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g18385"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18377"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18383"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18405);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18399"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18407);"
+           transform="translate(-0.44062441,3.9904025)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1132.9839"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect8355-5-1-6)">Instantané.
+</tspan></tspan><tspan
+             x="-1138.4289"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect8355-5-1-6)">Infligez 4 Dégâts.
+</tspan></tspan><tspan
+             x="-1138.0732"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect8355-5-1-6)">Recyclez 1 carte.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18495"
+       transform="translate(960.2129,1562.0884)">
+      <g
+         id="g18493"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-454.82004)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18439"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18441"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18451"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18443"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18449"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18497);"
+             transform="translate(19.469646,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan
+                 style="font-size:4.23333px">Perturbation</tspan></tspan></text>
+        </g>
+        <g
+           id="g18465"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g18463"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18453"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18461"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18457"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18455" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18459">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path18467"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g18477"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18469"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18475"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18499);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18491"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18501);"
+           transform="translate(-0.44062441,3.9904025)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1132.9839"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect8355-5-1-6)">Instantané.
+</tspan></tspan><tspan
+             x="-1138.4289"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect8355-5-1-6)">Infligez 4 Dégâts.
+</tspan></tspan><tspan
+             x="-1138.0732"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect8355-5-1-6)">Recyclez 1 carte.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18561"
+       transform="matrix(0.98740212,0,0,1.0000062,453.77598,-543.10916)">
+      <rect
+         y="-1019.4515"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect18503"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1016.8056"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect18505"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g18515"
+         transform="translate(-863.6,122.15523)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect18507"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text18513"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18563);"
+           transform="translate(22.455508,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Déviation</tspan></tspan></text>
+      </g>
+      <g
+         id="g18529"
+         transform="translate(-863.6,122.15523)">
+        <g
+           id="g18527"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle18517"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.00026,-1137.8186)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot18525"
+             xml:space="preserve"><flowRegion
+               id="flowRegion18521"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect18519" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara18523">0</flowPara></flowRoot>
+        </g>
+      </g>
+      <rect
+         y="-974.99591"
+         x="-1151.7063"
+         height="39.687298"
+         width="56.496887"
+         id="rect18531"
+         style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g18541"
+         transform="translate(-863.6,122.15523)">
+        <ellipse
+           style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse18533"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text18539"
+           style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18565);"
+           transform="translate(2.7245361,2.5710205)"><tspan
+             x="-272.65234"
+             y="-1098.7827"><tspan
+               style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text18559"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18567);"
+         transform="translate(-0.36655953,92.19051)"
+         x="14.79411"
+         y="0"><tspan
+           x="-1132.9839"
+           y="-1048.5037"><tspan
+             style="shape-inside:url(#rect18567)">Instantané.
+</tspan></tspan><tspan
+           x="-1139.9283"
+           y="-1044.0941"><tspan
+             style="shape-inside:url(#rect18567)">Gagnez 4 Armures.</tspan></tspan></text>
+    </g>
+    <g
+       id="g18657"
+       transform="translate(815.88826,1735.7291)">
+      <g
+         id="g18627"
+         transform="matrix(0.98740212,0,0,1.0000062,453.77598,-543.10916)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18585"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18587"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18597"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18589"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18595"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18629);"
+             transform="translate(22.455508,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Déviation</tspan></tspan></text>
+        </g>
+        <g
+           id="g18611"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18609"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18599"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.00026,-1137.8186)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18607"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18603"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18601" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18605">0</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18613"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18623"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18615"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18621"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18631);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18625"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18633);"
+           transform="translate(-0.36655953,92.19051)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1132.9839"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect18633)">Instantané.
+</tspan></tspan><tspan
+             x="-1139.9283"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect18633)">Gagnez 4 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18703"
+       transform="translate(712.78747,1749.442)">
+      <g
+         id="g18701"
+         transform="matrix(0.98740212,0,0,1.0000062,453.77598,-543.10916)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18659"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18661"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18671"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18663"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18669"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18705);"
+             transform="translate(22.455508,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Déviation</tspan></tspan></text>
+        </g>
+        <g
+           id="g18685"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18683"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18673"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.00026,-1137.8186)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18681"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18677"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18675" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18679">0</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18687"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18697"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18689"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18695"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18707);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18699"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18709);"
+           transform="translate(-0.36655953,92.19051)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1132.9839"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect18709)">Instantané.
+</tspan></tspan><tspan
+             x="-1139.9283"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect18709)">Gagnez 4 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18813"
+       transform="translate(752.27149,1487.4462)">
+      <g
+         id="g18773"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-454.82004)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18711"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18713"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18723"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18715"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18721"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18775);"
+             transform="translate(18.380415,1.8524701)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Métastruction</tspan></tspan></text>
+        </g>
+        <g
+           id="g18737"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18735"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18725"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18733"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18729"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18727" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18731">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18739"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18749"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18741"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18747"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18777);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18771"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18779);"
+           transform="translate(-4.995996,87.69266)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1142.1435"
+             y="-1048.5037"><tspan>Détruisez 1 Enchantement
+</tspan></tspan><tspan
+             x="-1135.4229"
+             y="-1044.0941"><tspan>OU Contrez un sort </tspan></tspan><tspan
+             x="-1141.221"
+             y="-1039.6844"><tspan>détruisant ou contrant un </tspan></tspan><tspan
+             x="-1132.0622"
+             y="-1035.2747"><tspan>Enchantement.
+</tspan></tspan><tspan
+             x="-1135.5211"
+             y="-1030.8651"><tspan>Gagnez 2 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18879"
+       transform="translate(724.2594,1478.8271)">
+      <g
+         id="g18877"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-454.82004)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18815"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18817"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18827"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18819"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18825"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18881);"
+             transform="translate(18.380415,1.8524701)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Métastruction</tspan></tspan></text>
+        </g>
+        <g
+           id="g18841"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18839"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18829"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18837"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18833"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18831" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18835">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18843"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18853"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18845"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18851"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18883);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18875"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18885);"
+           transform="translate(-4.995996,87.69266)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1142.1435"
+             y="-1048.5037"><tspan>Détruisez 1 Enchantement
+</tspan></tspan><tspan
+             x="-1135.4229"
+             y="-1044.0941"><tspan>OU Contrez un sort </tspan></tspan><tspan
+             x="-1141.221"
+             y="-1039.6844"><tspan>détruisant ou contrant un </tspan></tspan><tspan
+             x="-1132.0622"
+             y="-1035.2747"><tspan>Enchantement.
+</tspan></tspan><tspan
+             x="-1135.5211"
+             y="-1030.8651"><tspan>Gagnez 2 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g18965"
+       transform="translate(705.9438,1601.7061)">
+      <g
+         id="g18933"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-366.53093)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18887"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18889"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18899"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18891"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18897"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18935);"
+             transform="translate(21.828156,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Divination</tspan></tspan></text>
+        </g>
+        <g
+           id="g18913"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18911"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18901"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18909"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18905"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18903" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18907">0</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18915"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18925"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18917"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text18923"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18937);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-3-3-4)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text18931"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect18939);"
+           transform="translate(-0.44062938,94.32472)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1138.9921"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect8355-4-0-2-2-1-3-4)">Recyclez 3 cartes.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19015"
+       transform="translate(688.34646,1585.5452)">
+      <g
+         id="g19013"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-366.53093)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect18967"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect18969"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g18979"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect18971"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text18977"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19017);"
+             transform="translate(21.828156,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Divination</tspan></tspan></text>
+        </g>
+        <g
+           id="g18993"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g18991"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle18981"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot18989"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion18985"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect18983" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara18987">0</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect18995"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19005"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse18997"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19003"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19019);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-3-3-4)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19011"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19021);"
+           transform="translate(-0.44062938,94.32472)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1138.9921"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect8355-4-0-2-2-1-3-4)">Recyclez 3 cartes.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19102"
+       transform="translate(1061.1283,1514.4941)">
+      <g
+         id="g19071"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-189.95259)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19027"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19029"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19039"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19031"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19037"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19073);"
+             transform="translate(18.497097,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Répercussion</tspan></tspan></text>
+        </g>
+        <g
+           id="g19053"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g19051"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19041"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19049"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19045"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19043" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19047">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path19055"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g19065"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19057"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19063"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19075);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19069"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19077);"
+           transform="translate(-1.6102547,-0.24290467)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1137.3927"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect16746)">Infligez 5 Dégâts.
+</tspan></tspan><tspan
+             x="-1137.9655"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect16746)">Si un sort adverse </tspan></tspan><tspan
+             x="-1136.193"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect16746)">allait piocher ou </tspan></tspan><tspan
+             x="-1139.4942"
+             y="-1035.2747"><tspan
+               style="shape-inside:url(#rect16746)">découvrir, Infligez 4 </tspan></tspan><tspan
+             x="-1135.752"
+             y="-1030.8651"><tspan
+               style="shape-inside:url(#rect16746)">Dégâts de plus.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19150"
+       transform="translate(1040.2988,1513.7759)">
+      <g
+         id="g19148"
+         transform="matrix(0.98740212,0,0,1.0000062,266.3022,-189.95259)">
+        <rect
+           y="-1107.74"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19104"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1105.0941"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19106"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19116"
+           transform="translate(-863.59999,33.866666)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19108"
+             style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19114"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19152);"
+             transform="translate(18.497097,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Répercussion</tspan></tspan></text>
+        </g>
+        <g
+           id="g19130"
+           transform="translate(-863.59999,33.866666)">
+          <g
+             id="g19128"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19118"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19126"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19122"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19120" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19124">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path19132"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g19142"
+           transform="translate(-863.59999,33.866666)">
+          <ellipse
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19134"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19140"
+             style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19154);"
+             transform="translate(5.9120248,2.2383951)"><tspan
+               x="-272.65234"
+               y="-1098.4705"><tspan
+                 style="font-size:3.52778px">Attaque</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19146"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19156);"
+           transform="translate(-1.6102547,-0.24290467)"
+           x="14.139543"
+           y="0"><tspan
+             x="-1137.3927"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect16746)">Infligez 5 Dégâts.
+</tspan></tspan><tspan
+             x="-1137.9655"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect16746)">Si un sort adverse </tspan></tspan><tspan
+             x="-1136.193"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect16746)">allait piocher ou </tspan></tspan><tspan
+             x="-1139.4942"
+             y="-1035.2747"><tspan
+               style="shape-inside:url(#rect16746)">découvrir, Infligez 4 </tspan></tspan><tspan
+             x="-1135.752"
+             y="-1030.8651"><tspan
+               style="shape-inside:url(#rect16746)">Dégâts de plus.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19255"
+       transform="translate(981.03691,1716.8731)">
+      <g
+         id="g19216"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-631.39828)">
+        <rect
+           y="-931.1629"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19158"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-928.51703"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19160"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19170"
+           transform="translate(-863.6,210.4438)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19162"
+             style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19168"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19219);"
+             transform="translate(22.758332,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Affluence</tspan></tspan></text>
+        </g>
+        <g
+           id="g19184"
+           transform="translate(-863.6,210.4438)">
+          <g
+             id="g19182"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19172"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19180"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19176"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19174" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19178">0</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path19186"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.6596,-897.2906 c 0,0 2.1045,10.5833 28.2017,10.5833 26.0972,0 28.2251,-10.5833 28.2251,-10.5833 l 0.023,50.2706 h -56.4969 z"
+           sodipodi:nodetypes="czcccc" />
+        <g
+           id="g19196"
+           transform="translate(-863.6,210.4438)">
+          <ellipse
+             style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19188"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19194"
+             style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19221);"
+             transform="translate(2.362723,2.9958019)"><tspan
+               x="-272.65234"
+               y="-1099.0948"><tspan
+                 style="shape-inside:url(#rect7718-3)">Enchantement</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19214"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19223);"
+           transform="translate(-0.36534696,178.51473)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1133.4369"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect9528-1)">Élévation 3.
+</tspan></tspan><tspan
+             x="-1136.4893"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect9528-1)">Piochez 1 carte </tspan></tspan><tspan
+             x="-1139.5666"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect9528-1)">supplémentaire au </tspan></tspan><tspan
+             x="-1140.62"
+             y="-1035.2747"><tspan
+               style="shape-inside:url(#rect9528-1)">début de votre tour.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19317"
+       transform="translate(982.1143,1695.6845)">
+      <g
+         id="g19315"
+         transform="matrix(0.98740212,0,0,1.0000062,391.28472,-631.39828)">
+        <rect
+           y="-931.1629"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19257"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-928.51703"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19259"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19269"
+           transform="translate(-863.6,210.4438)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19261"
+             style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19267"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19319);"
+             transform="translate(22.758332,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Affluence</tspan></tspan></text>
+        </g>
+        <g
+           id="g19283"
+           transform="translate(-863.6,210.4438)">
+          <g
+             id="g19281"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19271"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19279"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19275"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19273" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19277">0</flowPara></flowRoot>
+          </g>
+        </g>
+        <path
+           id="path19285"
+           style="fill:#78e08f;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1151.6596,-897.2906 c 0,0 2.1045,10.5833 28.2017,10.5833 26.0972,0 28.2251,-10.5833 28.2251,-10.5833 l 0.023,50.2706 h -56.4969 z"
+           sodipodi:nodetypes="czcccc" />
+        <g
+           id="g19295"
+           transform="translate(-863.6,210.4438)">
+          <ellipse
+             style="fill:#78e08f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19287"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19293"
+             style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19321);"
+             transform="translate(2.362723,2.9958019)"><tspan
+               x="-272.65234"
+               y="-1099.0948"><tspan
+                 style="shape-inside:url(#rect7718-3)">Enchantement</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19313"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19324);"
+           transform="translate(-0.36534696,178.51473)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1133.4369"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect9528-1)">Élévation 3.
+</tspan></tspan><tspan
+             x="-1136.4893"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect9528-1)">Piochez 1 carte </tspan></tspan><tspan
+             x="-1139.5666"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect9528-1)">supplémentaire au </tspan></tspan><tspan
+             x="-1140.62"
+             y="-1035.2747"><tspan
+               style="shape-inside:url(#rect9528-1)">début de votre tour.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19422"
+       transform="translate(997.20048,1589.3822)">
+      <g
+         id="g19384"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-543.10912)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19326"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19328"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19338"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19330"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19336"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19386);"
+             transform="translate(21.871564,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Protection</tspan></tspan></text>
+        </g>
+        <g
+           id="g19352"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g19350"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19340"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19348"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19344"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19342" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19346">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect19354"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19364"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19356"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19362"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19388);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19382"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19390);"
+           transform="translate(-0.57412718,89.266701)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1139.9283"
+             y="-1048.5037"><tspan>Gagnez 6 Armures.
+</tspan></tspan><tspan
+             x="-1141.5226"
+             y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
+             x="-1141.0144"
+             y="-1039.6844"><tspan>recyclez cette carte, </tspan></tspan><tspan
+             x="-1139.9283"
+             y="-1035.2747"><tspan>Gagnez 6 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19484"
+       transform="translate(969.90665,1577.8901)">
+      <g
+         id="g19482"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-543.10912)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19424"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19426"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19436"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19428"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19434"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19486);"
+             transform="translate(21.871564,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Protection</tspan></tspan></text>
+        </g>
+        <g
+           id="g19450"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g19448"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19438"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19446"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19442"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19440" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19444">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect19452"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19462"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19454"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19460"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19488);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1-0-6)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19480"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19490);"
+           transform="translate(-0.57412718,89.266701)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1139.9283"
+             y="-1048.5037"><tspan>Gagnez 6 Armures.
+</tspan></tspan><tspan
+             x="-1141.5226"
+             y="-1044.0941"><tspan>Si vous défaussez ou </tspan></tspan><tspan
+             x="-1141.0144"
+             y="-1039.6844"><tspan>recyclez cette carte, </tspan></tspan><tspan
+             x="-1139.9283"
+             y="-1035.2747"><tspan>Gagnez 6 Armures.</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19570"
+       transform="translate(1029.5221,1449.4918)">
+      <g
+         id="g19538"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-278.24171)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19492"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19494"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19504"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19496"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19502"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19540);"
+             transform="translate(28.069631,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Flux</tspan></tspan></text>
+        </g>
+        <g
+           id="g19518"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g19516"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19506"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19514"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19510"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19508" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19512">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect19520"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19530"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19522"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19528"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19542);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19536"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19544);"
+           transform="translate(-0.44062923,90.256978)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1137.9689"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect8355-4-0-2)">Piochez 3 cartes.
+</tspan></tspan><tspan
+             x="-1135.6073"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect8355-4-0-2)">Si Élévation 6,
+</tspan></tspan><tspan
+             x="-1135.8115"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect8355-4-0-2)">Coûte 0 Mana. </tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19620"
+       transform="translate(997.91874,1440.5136)">
+      <g
+         id="g19618"
+         transform="matrix(0.98740212,0,0,1.0000062,328.79346,-278.24171)">
+        <rect
+           y="-1019.4515"
+           x="-1154.3522"
+           height="86.788567"
+           width="61.788563"
+           id="rect19572"
+           style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           y="-1016.8056"
+           x="-1151.7063"
+           height="81.49691"
+           width="56.496887"
+           id="rect19574"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19584"
+           transform="translate(-863.6,122.15523)">
+          <rect
+             y="-1138.9608"
+             x="-278.28418"
+             height="8.7370005"
+             width="46.674686"
+             id="rect19576"
+             style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             id="text19582"
+             style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19622);"
+             transform="translate(28.069631,1.7677208)"><tspan
+               x="-287.55469"
+               y="-1134.7818"><tspan>Flux</tspan></tspan></text>
+        </g>
+        <g
+           id="g19598"
+           transform="translate(-863.6,122.15523)">
+          <g
+             id="g19596"
+             transform="translate(-44.813317,-3.0208362)">
+            <circle
+               style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+               id="circle19586"
+               cx="-238.96164"
+               cy="-1131.6086"
+               r="7.0861607" />
+            <flowRoot
+               transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+               style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="flowRoot19594"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion19590"><rect
+                   style="line-height:113%;"
+                   y="4.0867119"
+                   x="2.5484009"
+                   height="51.801369"
+                   width="181.58759"
+                   id="rect19588" /></flowRegion><flowPara
+                 style="font-size:45.7323px;line-height:113%"
+                 id="flowPara19592">1</flowPara></flowRoot>
+          </g>
+        </g>
+        <rect
+           y="-974.99591"
+           x="-1151.7063"
+           height="39.687298"
+           width="56.496887"
+           id="rect19600"
+           style="fill:#82ccdd;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g19610"
+           transform="translate(-863.6,122.15523)">
+          <ellipse
+             style="fill:#82ccdd;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="ellipse19602"
+             cx="-259.85788"
+             cy="-1097.1511"
+             rx="13.548702"
+             ry="3.3871756" />
+          <text
+             xml:space="preserve"
+             id="text19608"
+             style="font-size:3.175px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19624);"
+             transform="translate(2.7245361,2.5710205)"><tspan
+               x="-272.65234"
+               y="-1098.7827"><tspan
+                 style="shape-inside:url(#rect7531-2-1)">Compétence</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text19616"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19627);"
+           transform="translate(-0.44062923,90.256978)"
+           x="14.79411"
+           y="0"><tspan
+             x="-1137.9689"
+             y="-1048.5037"><tspan
+               style="shape-inside:url(#rect8355-4-0-2)">Piochez 3 cartes.
+</tspan></tspan><tspan
+             x="-1135.6073"
+             y="-1044.0941"><tspan
+               style="shape-inside:url(#rect8355-4-0-2)">Si Élévation 6,
+</tspan></tspan><tspan
+             x="-1135.8115"
+             y="-1039.6844"><tspan
+               style="shape-inside:url(#rect8355-4-0-2)">Coûte 0 Mana. </tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g19637"
+       transform="translate(1312.1969,1375.2793)">
+      <rect
+         y="-1236.0989"
+         x="-1255.3611"
+         height="30.3645"
+         width="61.614697"
+         id="rect19629"
+         style="fill:#fa983a;fill-opacity:0.996078;stroke:#000000;stroke-width:0.885999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1234.8177"
+         x="-1254.0803"
+         height="27.802143"
+         width="59.053143"
+         id="rect19631"
+         style="fill:#6fa9d1;fill-opacity:1;stroke:#000000;stroke-width:0.447858;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         id="text19635"
+         style="font-size:3.72754px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19639);"
+         transform="matrix(0.98740108,0,0,1.0001004,-968.99235,-89.130164)"
+         x="22.142298"
+         y="0"><tspan
+           x="-280.92088"
+           y="-1135.2293"><tspan
+             style="font-size:3.72754px;text-align:center;text-anchor:middle">Coûte 1 Mana de moins
+</tspan></tspan><tspan
+           x="-261.66708"
+           y="-1130.5699"><tspan
+             style="font-size:3.72754px;text-align:center;text-anchor:middle">OU
+</tspan></tspan><tspan
+           x="-273.35569"
+           y="-1125.9105"><tspan
+             style="font-size:3.72754px;text-align:center;text-anchor:middle">Gagnez 1 Mana</tspan></tspan></text>
+    </g>
+    <g
+       id="g19699"
+       transform="matrix(0.98740212,0,0,1.0000062,1214.3047,1212.8523)">
+      <rect
+         y="-1107.74"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect19641"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1105.0941"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect19643"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g19653"
+         transform="translate(-863.59999,33.866666)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect19645"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text19651"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19701);"
+           transform="translate(21.620417,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Oscillation</tspan></tspan></text>
+      </g>
+      <g
+         id="g19667"
+         transform="translate(-863.59999,33.866666)">
+        <g
+           id="g19665"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle19655"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot19663"
+             xml:space="preserve"><flowRegion
+               id="flowRegion19659"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect19657" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara19661">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <path
+         id="path19669"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         id="g19679"
+         transform="translate(-863.59999,33.866666)">
+        <ellipse
+           style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse19671"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text19677"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19703);"
+           transform="translate(5.9120248,2.2383951)"><tspan
+             x="-272.65234"
+             y="-1098.4705"><tspan
+               style="font-size:3.52778px">Attaque</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text19697"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19705);"
+         transform="translate(-2.921154,-4.5444262)"
+         x="14.139543"
+         y="0"><tspan
+           x="-1141.5354"
+           y="-1048.5037"><tspan
+             style="shape-inside:url(#rect16693)">Contrez un sort </tspan><tspan
+             style="shape-inside:url(#rect16693)">coûtant </tspan></tspan><tspan
+           x="-1137.6898"
+           y="-1044.0941"><tspan
+             style="shape-inside:url(#rect16693)">0 Mana ou pouvant </tspan></tspan><tspan
+           x="-1135.6056"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect16693)">gagner du Mana.
+</tspan></tspan><tspan
+           x="-1138.9628"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect16693)">Gagnez 1 Mana si ce </tspan></tspan><tspan
+           x="-1138.3384"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect16693)">sort coûtait 0 Mana.
+</tspan></tspan><tspan
+           x="-1136.0646"
+           y="-1026.4554"><tspan
+             style="shape-inside:url(#rect16693)">Infligez 2 Dégâts.</tspan></tspan></text>
+    </g>
+    <g
+       id="g19765"
+       transform="matrix(0.98740212,0,0,1.0000062,1214.3047,1212.8523)">
+      <rect
+         y="-1107.74"
+         x="-1154.3522"
+         height="86.788567"
+         width="61.788563"
+         id="rect19707"
+         style="fill:#7f7f7f;fill-opacity:0.392157;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1105.0941"
+         x="-1151.7063"
+         height="81.49691"
+         width="56.496887"
+         id="rect19709"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g19719"
+         transform="translate(-863.59999,33.866666)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect19711"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text19717"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19767);"
+           transform="translate(21.620417,1.7677208)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan>Oscillation</tspan></tspan></text>
+      </g>
+      <g
+         id="g19733"
+         transform="translate(-863.59999,33.866666)">
+        <g
+           id="g19731"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle19721"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot19729"
+             xml:space="preserve"><flowRegion
+               id="flowRegion19725"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect19723" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara19727">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <path
+         id="path19735"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1151.7063,-1071.6098 28.2484,8.3254 28.2485,-8.3254 v 48.0127 h -56.4969 z"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         id="g19745"
+         transform="translate(-863.59999,33.866666)">
+        <ellipse
+           style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse19737"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text19743"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19769);"
+           transform="translate(5.9120248,2.2383951)"><tspan
+             x="-272.65234"
+             y="-1098.4705"><tspan
+               style="font-size:3.52778px">Attaque</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text19763"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19771);"
+         transform="translate(-2.921154,-4.5444262)"
+         x="14.139543"
+         y="0"><tspan
+           x="-1141.5354"
+           y="-1048.5037"><tspan
+             style="shape-inside:url(#rect16693)">Contrez un sort </tspan><tspan
+             style="shape-inside:url(#rect16693)">coûtant </tspan></tspan><tspan
+           x="-1137.6898"
+           y="-1044.0941"><tspan
+             style="shape-inside:url(#rect16693)">0 Mana ou pouvant </tspan></tspan><tspan
+           x="-1135.6056"
+           y="-1039.6844"><tspan
+             style="shape-inside:url(#rect16693)">gagner du Mana.
+</tspan></tspan><tspan
+           x="-1138.9628"
+           y="-1035.2747"><tspan
+             style="shape-inside:url(#rect16693)">Gagnez 1 Mana si ce </tspan></tspan><tspan
+           x="-1138.3384"
+           y="-1030.8651"><tspan
+             style="shape-inside:url(#rect16693)">sort coûtait 0 Mana.
+</tspan></tspan><tspan
+           x="-1136.0646"
+           y="-1026.4554"><tspan
+             style="shape-inside:url(#rect16693)">Infligez 2 Dégâts.</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text19773"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19775);"><tspan
+         x="-533.66602"
+         y="-1700.7674"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">1  2  3  4  5  6  7
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1696.3577"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">4  5  6  7  8  9  10
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1691.9481"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1687.5384"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">7  8  9  10 11 12 13
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1683.1287"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">5  7  9  11 13 15 17
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1678.7191"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">4  6  8  10 12 14 16
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1674.3094"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">
+</tspan></tspan><tspan
+         x="-533.66602"
+         y="-1669.8997"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">12 15 18 21 24 27 30</tspan></tspan></text>
+    <g
+       id="g19823"
+       transform="matrix(0.98740108,0,0,1.0001004,1151.8123,1212.9526)">
+      <rect
+         y="-1107.74"
+         x="-1091.0636"
+         height="86.788567"
+         width="61.788563"
+         id="rect19779"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1105.0941"
+         x="-1088.4177"
+         height="81.49691"
+         width="56.496887"
+         id="rect19781"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g19791"
+         transform="translate(-800.31143,33.866666)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect19783"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text19789"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825);"
+           transform="translate(17.899717,1.3574103)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan
+               style="font-size:4.23333px">Trait Mystique</tspan></tspan></text>
+      </g>
+      <g
+         id="g19805"
+         transform="translate(-800.31143,33.866666)">
+        <g
+           id="g19803"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle19793"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot19801"
+             xml:space="preserve"><flowRegion
+               id="flowRegion19797"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect19795" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara19799">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <path
+         id="path19807"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1088.4178,-1071.6099 28.2485,8.3254 28.2484,-8.3254 v 48.0127 h -56.4969 z"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         id="g19817"
+         transform="translate(-800.31143,33.866666)">
+        <ellipse
+           style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse19809"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text19815"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19827);"
+           transform="translate(5.9120248,2.2383951)"><tspan
+             x="-272.65234"
+             y="-1098.4705"><tspan
+               style="font-size:3.52778px">Attaque</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text19821"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19829);"
+         transform="translate(62.847876,2.0393141)"
+         x="14.139543"
+         y="0"><tspan
+           x="-1137.8682"
+           y="-1048.5037"><tspan>Infligez 2 Dégâts
+</tspan></tspan><tspan
+           x="-1135.6762"
+           y="-1044.0941"><tspan>plus 2 fois son </tspan></tspan><tspan
+           x="-1130.4535"
+           y="-1039.6844"><tspan>Altitude.</tspan></tspan></text>
+    </g>
+    <g
+       id="g19875"
+       transform="matrix(0.98740108,0,0,1.0001004,1195.267,1215.1074)">
+      <rect
+         y="-1107.74"
+         x="-1091.0636"
+         height="86.788567"
+         width="61.788563"
+         id="rect19831"
+         style="fill:#4a69bd;fill-opacity:0.8;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-1105.0941"
+         x="-1088.4177"
+         height="81.49691"
+         width="56.496887"
+         id="rect19833"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g19843"
+         transform="translate(-800.31143,33.866666)">
+        <rect
+           y="-1138.9608"
+           x="-278.28418"
+           height="8.7370005"
+           width="46.674686"
+           id="rect19835"
+           style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           id="text19841"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19877);"
+           transform="translate(17.899717,1.3574103)"><tspan
+             x="-287.55469"
+             y="-1134.7818"><tspan
+               style="font-size:4.23333px">Trait Mystique</tspan></tspan></text>
+      </g>
+      <g
+         id="g19857"
+         transform="translate(-800.31143,33.866666)">
+        <g
+           id="g19855"
+           transform="translate(-44.813317,-3.0208362)">
+          <circle
+             style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.2821;stroke-miterlimit:100;stroke-dasharray:none"
+             id="circle19845"
+             cx="-238.96164"
+             cy="-1131.6086"
+             r="7.0861607" />
+          <flowRoot
+             transform="matrix(0.24684693,0,0,0.24684693,-262.10224,-1137.8131)"
+             style="font-style:normal;font-weight:normal;font-size:45.7323px;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot19853"
+             xml:space="preserve"><flowRegion
+               id="flowRegion19849"><rect
+                 style="line-height:113%;"
+                 y="4.0867119"
+                 x="2.5484009"
+                 height="51.801369"
+                 width="181.58759"
+                 id="rect19847" /></flowRegion><flowPara
+               style="font-size:45.7323px;line-height:113%"
+               id="flowPara19851">1</flowPara></flowRoot>
+        </g>
+      </g>
+      <path
+         id="path19859"
+         style="fill:#e56450;fill-opacity:0.6;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1088.4178,-1071.6099 28.2485,8.3254 28.2484,-8.3254 v 48.0127 h -56.4969 z"
+         sodipodi:nodetypes="cccccc" />
+      <g
+         id="g19869"
+         transform="translate(-800.31143,33.866666)">
+        <ellipse
+           style="fill:#e55039;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.640097;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse19861"
+           cx="-259.85788"
+           cy="-1097.1511"
+           rx="13.548702"
+           ry="3.3871756" />
+        <text
+           xml:space="preserve"
+           id="text19867"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19879);"
+           transform="translate(5.9120248,2.2383951)"><tspan
+             x="-272.65234"
+             y="-1098.4705"><tspan
+               style="font-size:3.52778px">Attaque</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text19873"
+         style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect19881);"
+         transform="translate(62.847876,2.0393141)"
+         x="14.139543"
+         y="0"><tspan
+           x="-1137.8682"
+           y="-1048.5037"><tspan>Infligez 2 Dégâts
+</tspan></tspan><tspan
+           x="-1135.6762"
+           y="-1044.0941"><tspan>plus 2 fois son </tspan></tspan><tspan
+           x="-1130.4535"
+           y="-1039.6844"><tspan>Altitude.</tspan></tspan></text>
     </g>
   </g>
 </svg>
